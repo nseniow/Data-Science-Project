@@ -1,0 +1,582 @@
+﻿Series Name,Series Code,Country Name,Country Code,2005 [YR2005],2006 [YR2006],2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020]
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Canada,CAN,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Cambodia,KHM,..,..,..,76.8712921142578,76.1379623413086,..,..,..,..,78.0550918579102,80.5264892578125,..,..,..,..,..
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,United States,USA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Mexico,MEX,91.6302719116211,91.7345199584961,92.7951736450195,92.9255981445313,93.4418792724609,93.0689392089844,93.5199813842773,94.228401184082,93.9628524780273,94.5558776855469,94.472282409668,94.859619140625,94.9727783203125,95.3799133300781,..,95.2478485107422
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Indonesia,IDN,..,91.9822692871094,..,92.1922988891602,92.5817031860352,..,92.8119125366211,..,..,95.1162185668945,95.2179336547852,95.3769683837891,..,95.658561706543,..,95.9990081787109
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Thailand,THA,93.5064697265625,..,..,..,..,96.430908203125,..,..,93.7020721435547,..,92.8683090209961,..,..,93.7677612304688,..,..
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,South Africa,ZAF,..,..,88.7172470092773,..,92.8948593139648,92.8773193359375,93.1021423339844,93.7294692993164,..,94.1399002075195,94.367919921875,..,87.0466690063477,..,95.0229721069336,..
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Angola,AGO,..,..,..,..,..,..,..,..,..,66.0301132202148,..,..,..,..,..,..
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Zimbabwe,ZWE,..,..,..,..,..,..,83.5827102661133,..,..,88.6934204101563,..,..,..,..,..,..
+"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,Canada,CAN,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,Cambodia,KHM,..,..,..,84.9874572753906,83.9326782226563,..,..,..,..,84.8141479492188,86.5324401855469,..,..,..,..,..
+"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,United States,USA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,Mexico,MEX,93.1904067993164,93.9011993408203,94.4415130615234,94.5921630859375,94.9165725708008,94.3839416503906,94.7827682495117,95.3916320800781,95.1121063232422,95.6204681396484,95.5493316650391,95.8448181152344,95.8723678588867,96.2329025268555,..,96.0587463378906
+"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,Indonesia,IDN,..,95.1585388183594,..,95.383186340332,95.6470108032227,..,95.5910873413086,..,..,96.7910079956055,97.1065216064453,97.1744384765625,..,97.3313369750977,..,97.4493103027344
+"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,Thailand,THA,95.6002426147461,..,..,..,..,96.4350204467773,..,..,95.2512588500977,..,94.6591186523438,..,..,95.202392578125,..,..
+"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,South Africa,ZAF,..,..,90.7175903320313,..,94.1214599609375,94.1438522338867,94.2450866699219,94.9637222290039,..,95.2868499755859,95.3965301513672,..,87.6777496337891,..,95.5453720092773,..
+"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,Angola,AGO,..,..,..,..,..,..,..,..,..,79.9741516113281,..,..,..,..,..,..
+"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,Zimbabwe,ZWE,..,..,..,..,..,..,87.7648086547852,..,..,89.1853713989258,..,..,..,..,..,..
+"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,Canada,CAN,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,Cambodia,KHM,..,..,..,69.5864105224609,69.109016418457,..,..,..,..,71.7817993164063,75.0338668823242,..,..,..,..,..
+"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,United States,USA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,Mexico,MEX,90.2104110717773,89.8345108032227,91.3555526733398,91.45361328125,92.1162490844727,91.8534164428711,92.3382797241211,93.1792373657227,92.903938293457,93.5913391113281,93.4854965209961,93.9685211181641,94.1657562255859,94.6080474853516,..,94.4951324462891
+"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,Indonesia,IDN,..,88.786979675293,..,89.1013870239258,89.677116394043,..,90.0687026977539,..,..,93.4508972167969,93.3357086181641,93.5869216918945,..,93.9921798706055,..,94.5523529052734
+"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,Thailand,THA,91.5295715332031,..,..,..,..,96.4270477294922,..,..,92.2491607666016,..,91.1919326782227,..,..,92.4285583496094,..,..
+"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,South Africa,ZAF,..,..,87.043098449707,..,91.7681579589844,91.7139892578125,92.0478897094727,92.5862503051758,..,93.0730590820313,93.4080276489258,..,86.4586334228516,..,94.5331726074219,..
+"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,Angola,AGO,..,..,..,..,..,..,..,..,..,53.4072113037109,..,..,..,..,..,..
+"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,Zimbabwe,ZWE,..,..,..,..,..,..,80.0656585693359,..,..,88.2838287353516,..,..,..,..,..,..
+"School enrollment, primary (% net)",SE.PRM.NENR,Canada,CAN,..,..,..,..,..,..,..,99.45167,99.43231,99.39113,99.58907,99.95587,99.8825,..,..,..
+"School enrollment, primary (% net)",SE.PRM.NENR,Cambodia,KHM,..,94.83255,95.88748,94.57758,..,93.61728,97.51867,97.40673,..,95.04806,95.26797,92.75899,90.54321,90.26554,..,..
+"School enrollment, primary (% net)",SE.PRM.NENR,United States,USA,94.77826,..,..,..,..,93.37426,92.44255,92.79303,92.80851,93.2305,93.8973,95.07325,94.62633,..,..,..
+"School enrollment, primary (% net)",SE.PRM.NENR,Mexico,MEX,97.87734,98.05008,98.0127,98.08626,98.23304,98.0771,97.98488,97.92299,97.57591,96.79833,96.07343,95.69118,95.30064,..,..,..
+"School enrollment, primary (% net)",SE.PRM.NENR,Indonesia,IDN,88.93075,91.79173,93.81578,93.13418,93.76106,94.22952,93.73808,92.85318,90.5756,90.00059,..,92.77266,94.09782,93.4963,..,..
+"School enrollment, primary (% net)",SE.PRM.NENR,Thailand,THA,..,98.9104,98.48923,97.95392,98.08255,..,..,..,..,..,..,..,..,..,..,..
+"School enrollment, primary (% net)",SE.PRM.NENR,South Africa,ZAF,88.64586,..,..,..,..,..,..,..,..,..,84.35479,..,87.01258,..,..,..
+"School enrollment, primary (% net)",SE.PRM.NENR,Angola,AGO,..,..,..,75.37373,74.65254,75.80242,78.02393,..,..,..,..,..,..,..,..,..
+"School enrollment, primary (% net)",SE.PRM.NENR,Zimbabwe,ZWE,..,..,..,..,..,..,..,94.17241,94.14912,..,..,..,..,..,..,..
+"School enrollment, secondary (% net)",SE.SEC.NENR,Canada,CAN,..,..,..,..,..,..,..,92.14326,91.46145,90.95273,92.4135,99.32178,99.80968,..,..,..
+"School enrollment, secondary (% net)",SE.SEC.NENR,Cambodia,KHM,..,32.26357,35.91496,38.33132,..,..,..,..,..,..,..,..,..,..,..,..
+"School enrollment, secondary (% net)",SE.SEC.NENR,United States,USA,89.34377,..,..,..,..,88.38466,89.75284,89.29903,89.46575,89.86874,91.27156,92.18317,92.45022,..,..,..
+"School enrollment, secondary (% net)",SE.SEC.NENR,Mexico,MEX,66.67768,67.83849,68.93457,69.60395,69.68225,70.08479,70.65515,71.82661,75.56968,77.66257,80.02575,81.22278,81.15596,..,..,..
+"School enrollment, secondary (% net)",SE.SEC.NENR,Indonesia,IDN,53.3964,57.5779,64.8416,64.02634,64.76545,66.64897,72.91917,74.17695,75.36034,75.21275,75.77185,..,..,78.73112,..,..
+"School enrollment, secondary (% net)",SE.SEC.NENR,Thailand,THA,..,69.59192,73.2857,75.39528,77.17242,77.10383,79.4745,76.52904,..,78.79973,77.27069,..,..,..,..,..
+"School enrollment, secondary (% net)",SE.SEC.NENR,South Africa,ZAF,66.15872,..,..,..,..,..,..,..,..,..,90.54401,..,71.92661,..,..,..
+"School enrollment, secondary (% net)",SE.SEC.NENR,Angola,AGO,..,..,..,9.15376,9.63002,11.29064,..,..,..,..,..,..,..,..,..,..
+"School enrollment, secondary (% net)",SE.SEC.NENR,Zimbabwe,ZWE,..,..,..,..,..,..,..,47.8753,48.73362,..,..,..,..,..,..,..
+"Public spending on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,Canada,CAN,4.76588010787964,..,4.7664098739624,4.62612009048462,4.84057998657227,5.356369972229,5.26205015182495,..,..,..,..,..,..,..,..,..
+"Public spending on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,Cambodia,KHM,..,..,1.59930002689362,..,1.66568005084991,1.53378999233246,1.51068997383118,1.56089997291565,2.05053997039795,1.90938997268677,..,..,..,2.16285991668701,..,..
+"Public spending on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,United States,USA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Public spending on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,Mexico,MEX,4.84568977355957,4.69992017745972,4.69050979614258,4.82006978988647,5.18794012069702,5.15922021865845,5.10564994812012,5.10309982299805,4.69605016708374,5.25747013092041,5.22942018508911,4.90681982040405,4.51821994781494,4.25442981719971,..,..
+"Public spending on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,Indonesia,IDN,2.8728199005127,..,3.04425001144409,2.90190005302429,3.52513003349304,2.81227993965149,3.18944001197815,3.40748000144959,3.35904002189636,3.28800988197327,3.58360004425049,3.5,2.6699800491333,3,2.84185004234314,..
+"Public spending on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,Thailand,THA,3.93859004974365,4.05038022994995,3.60314989089966,3.50850009918213,3.86193990707397,3.5084400177002,4.80555009841919,4.53670978546143,4.12402009963989,3.72356009483337,3.75967001914978,3.63752007484436,3.3557300567627,3.05677008628845,2.96898007392883,..
+"Public spending on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,South Africa,ZAF,5.06319999694824,5.07256984710693,4.97414016723633,4.86600017547607,5.24869012832642,5.72173976898193,5.88102006912231,6.07742023468018,5.86465978622437,5.99946022033691,5.95619010925293,5.94285011291504,6.11305999755859,6.15898990631104,6.50505018234253,6.83613014221191
+"Public spending on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,Angola,AGO,2.12011003494263,2.28146004676819,..,..,..,3.42131996154785,3.2437698841095,3.27847003936768,3.8720600605011,2.93055009841919,3.48690009117126,2.75494003295898,2.46688008308411,2.04469990730286,1.82117998600006,..
+"Public spending on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,Zimbabwe,ZWE,..,..,..,..,..,1.54405999183655,..,6.07020998001099,5.99597978591919,6.13835000991821,5.81278991699219,5.47262001037598,5.3810601234436,3.58728003501892,..,..
+Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,Canada,CAN,6.59905815,6.4866991,6.57271051,6.70117044,7.52118206,7.47694063,7.30276871,7.4011817,7.3582077,7.23180246,7.58065939,7.67784119,7.56277943,7.58277988,7.60929585,..
+Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,Cambodia,KHM,1.22052443,0.95991439,0.97199392,1.02431202,1.21738589,1.36283231,1.27987134,1.406703,1.41955817,1.23977208,1.34465146,1.33381462,1.51867294,1.66258287,1.69888663,..
+Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,United States,USA,6.62940884,6.80890989,6.9233551,7.25172758,7.87523222,7.94476509,7.92789316,7.90049934,7.94619036,8.23888111,8.45250511,8.55732727,8.51218987,8.47234249,8.52492332,..
+Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,Mexico,MEX,2.46497631,2.4219811,2.52675962,2.61655498,2.86067677,2.8809936,2.91415977,3.00721955,3.12253189,2.89231014,2.98734331,2.84779787,2.75801349,2.6718502,2.67891455,..
+Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,Indonesia,IDN,0.73213077,0.83084285,1.01869869,0.89791238,0.92164314,0.66109073,0.70177156,0.76724905,0.81686825,0.99250942,1.15799761,1.37558305,1.34984493,1.395854,1.42157829,..
+Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,Thailand,THA,2.013062,2.2303164,2.41405702,2.60726309,2.64681911,2.50096035,2.72706866,2.68024039,2.62275028,2.78856063,2.74870181,2.85137558,2.76579475,2.69087815,2.7152462,..
+Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,South Africa,ZAF,3.07617569,3.61328125,3.671134,3.73152447,4.23951578,4.44811392,4.53395033,4.5380373,4.52993202,4.75114346,5.01728439,4.99312115,4.98211432,5.07550335,5.35265827,..
+Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,Angola,AGO,1.278759,1.44412029,1.72198606,2.13843656,2.60045815,1.67409575,1.71321797,1.56333554,1.69516742,1.31816006,1.23424077,1.19753671,1.29187,1.06878412,1.04434741,..
+Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,Zimbabwe,ZWE,..,..,..,..,..,2.75335717,2.1196537,1.99878275,2.01807022,2.73156643,1.55136812,1.78890914,1.79418128,2.78293462,1.35826993,..
+"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,Canada,CAN,3.1,3.02,2.96,2.85,2.8,2.78,2.8,2.79,2.72,2.67,2.62,2.6,2.53,2.55,2.52,..
+"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,Cambodia,KHM,..,..,..,..,..,0.84,0.7,..,0.7,..,0.8,0.9,..,..,..,..
+"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,United States,USA,3.2,3.18,3.14,3.13,3.08,3.05,2.97,2.93,2.89,2.83,2.8,2.77,2.87,..,..,..
+"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,Mexico,MEX,1.05,1.02,1.06,1.03,1.02,1.05,1.04,1.03,1.03,1.03,1,1,0.99,0.98,..,..
+"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,Indonesia,IDN,..,..,..,..,0.59,0.57,0.62,0.83,0.99,0.94,0.98,0.99,1.04,..,..,..
+"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,Thailand,THA,2.1,..,..,..,..,2.1,..,..,..,..,..,..,..,..,..,..
+"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,South Africa,ZAF,2.8,..,2.41,2.39,..,2.3,..,..,..,..,..,..,..,..,..,..
+"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,Angola,AGO,0.8,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,Zimbabwe,ZWE,..,3,..,..,..,..,1.7,..,..,..,..,..,..,..,..,..
+"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,Canada,CAN,93,95,99,96,93,90,87,91,91,91,91,91,91,91,91,..
+"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,Cambodia,KHM,82,80,82,91,95,90,91,90,71,92,92,91,91,90,94,..
+"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,United States,USA,92,93,93,94,93,93,94,93,93,93,93,94,94,93,93,..
+"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,Mexico,MEX,98,98,98,96,95,95,97,99,83,87,87,96,85,88,82,..
+"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,Indonesia,IDN,79,78,77,83,85,82,81,87,92,90,85,85,88,87,85,..
+"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,Thailand,THA,98,98,98,99,99,99,99,99,99,99,99,99,99,97,97,..
+"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,South Africa,ZAF,75,79,79,77,75,72,71,69,79,85,85,76,76,74,77,..
+"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,Angola,AGO,14,8,43,36,36,56,50,54,48,55,57,53,47,56,51,..
+"Immunization, Pol3 (% of one-year-old children)",SH.IMM.POL3,Zimbabwe,ZWE,69,71,73,75,69,89,93,95,95,92,88,90,89,89,90,..
+"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,Canada,CAN,94,93,94,93,91,90,88,89,90,90,89,89,90,90,90,..
+"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,Cambodia,KHM,79,78,79,89,92,90,88,84,79,83,84,84,84,84,84,..
+"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,United States,USA,92,92,92,92,90,92,92,91,92,92,92,92,92,92,90,..
+"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,Mexico,MEX,96,96,96,96,96,95,98,99,89,97,97,96,76,97,73,..
+"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,Indonesia,IDN,77,79,76,76,74,78,80,82,87,86,87,88,90,89,88,..
+"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,Thailand,THA,96,96,96,98,98,98,98,98,99,99,99,99,99,96,96,..
+"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,South Africa,ZAF,64,69,68,73,77,72,77,79,78,84,86,85,70,70,72,..
+"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,Angola,AGO,21,21,58,48,46,62,57,65,59,56,51,45,42,50,51,..
+"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,Zimbabwe,ZWE,67,68,69,70,76,90,92,97,93,92,86,95,90,88,85,..
+"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,Canada,CAN,14,14,14,28,42,56,70,70,55,55,69,70,71,71,74,..
+"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,Cambodia,KHM,..,80,82,91,92,91,91,91,86,91,92,93,93,92,92,..
+"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,United States,USA,93,93,93,94,92,92,91,90,91,92,92,93,93,91,91,..
+"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,Mexico,MEX,98,98,98,97,95,93,98,99,82,84,82,93,58,55,56,..
+"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,Indonesia,IDN,65,66,76,82,82,83,81,86,92,88,84,84,85,85,85,..
+"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,Thailand,THA,96,96,96,98,98,98,98,98,99,99,99,99,99,97,97,..
+"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,South Africa,ZAF,79,83,83,76,74,71,76,70,73,85,85,76,76,74,77,..
+"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,Angola,AGO,..,..,43,45,47,49,50,52,54,55,55,55,52,59,53,..
+"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,Zimbabwe,ZWE,65,68,72,75,73,90,94,97,95,91,87,90,89,89,90,..
+"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,Canada,CAN,93,95,94,92,91,89,87,91,91,91,91,91,91,91,91,..
+"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,Cambodia,KHM,82,80,82,91,94,90,91,90,86,91,92,93,93,92,92,..
+"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,United States,USA,96,96,96,96,95,95,96,94,94,95,95,95,95,94,94,..
+"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,Mexico,MEX,98,98,98,96,95,95,97,99,83,87,87,93,85,88,82,..
+"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,Indonesia,IDN,72,72,73,77,78,81,81,87,92,88,84,84,85,85,85,..
+"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,Thailand,THA,98,98,98,99,99,99,99,99,99,99,99,99,99,97,97,..
+"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,South Africa,ZAF,81,84,85,82,81,77,75,71,81,85,85,76,76,74,77,..
+"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,Angola,AGO,47,44,48,49,50,51,52,53,54,55,59,59,56,63,57,..
+"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,Zimbabwe,ZWE,68,70,73,75,73,89,93,95,95,91,87,90,89,89,90,..
+"Number of surgical procedures (per 100,000 population)",SH.SGR.PROC.P5,Canada,CAN,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Number of surgical procedures (per 100,000 population)",SH.SGR.PROC.P5,Cambodia,KHM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Number of surgical procedures (per 100,000 population)",SH.SGR.PROC.P5,United States,USA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Number of surgical procedures (per 100,000 population)",SH.SGR.PROC.P5,Mexico,MEX,..,..,..,..,..,..,..,..,..,..,1303,..,..,..,..,..
+"Number of surgical procedures (per 100,000 population)",SH.SGR.PROC.P5,Indonesia,IDN,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Number of surgical procedures (per 100,000 population)",SH.SGR.PROC.P5,Thailand,THA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Number of surgical procedures (per 100,000 population)",SH.SGR.PROC.P5,South Africa,ZAF,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Number of surgical procedures (per 100,000 population)",SH.SGR.PROC.P5,Angola,AGO,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Number of surgical procedures (per 100,000 population)",SH.SGR.PROC.P5,Zimbabwe,ZWE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Number of infant deaths,SH.DTH.IMRT,Canada,CAN,1800,1825,1845,1860,1869,1871,1866,1855,1839,1820,1799,1777,1757,1736,1715,1692
+Number of infant deaths,SH.DTH.IMRT,Cambodia,KHM,18087,17129,16273,15398,14471,13519,12609,11775,11073,10493,9982,9523,9092,8661,8284,7938
+Number of infant deaths,SH.DTH.IMRT,United States,USA,27762,27585,27261,26788,26200,25530,24844,24184,23594,23089,22671,22334,22068,21847,21652,21451
+Number of infant deaths,SH.DTH.IMRT,Mexico,MEX,44987,43211,41560,40080,38731,37469,36250,35073,33910,32728,31538,30368,29178,28010,26892,25833
+Number of infant deaths,SH.DTH.IMRT,Indonesia,IDN,164001,159233,154301,149371,144552,139744,134784,129886,124880,119782,114762,109901,105291,100791,96878,93233
+Number of infant deaths,SH.DTH.IMRT,Thailand,THA,12466,11740,11069,10438,9838,9277,8738,8236,7774,7343,6932,6543,6178,5834,5503,5191
+Number of infant deaths,SH.DTH.IMRT,South Africa,ZAF,53752,54092,52751,49598,44926,40694,38338,37180,36173,35302,34249,33356,32777,31810,30937,30153
+Number of infant deaths,SH.DTH.IMRT,Angola,AGO,90613,88733,86660,84273,81692,79094,76429,73672,71175,69010,67198,65848,64778,63772,62880,62212
+Number of infant deaths,SH.DTH.IMRT,Zimbabwe,ZWE,20791,22017,23113,23711,24133,23804,23680,21931,21210,20245,19665,18753,18018,17196,16615,16354
+Number of stillbirths,SH.DTH.STLB,Canada,CAN,1037,1083,1129,1138,1126,1114,1116,1110,1107,1114,1097,1087,1089,1083,1072,..
+Number of stillbirths,SH.DTH.STLB,Cambodia,KHM,7330,7095,6863,6645,6405,6146,5917,5671,5456,5269,5120,4979,4842,4696,4573,..
+Number of stillbirths,SH.DTH.STLB,United States,USA,12382,12336,12454,12805,12247,12147,11987,11883,11799,11795,11810,11849,11861,11855,11844,..
+Number of stillbirths,SH.DTH.STLB,Mexico,MEX,18512,18000,17560,17321,17106,16826,16514,16133,15793,15485,15333,15271,15287,15296,15136,..
+Number of stillbirths,SH.DTH.STLB,Indonesia,IDN,66751,65867,64869,63706,62222,60411,58826,57229,55434,53740,51944,50229,48540,47093,45857,..
+Number of stillbirths,SH.DTH.STLB,Thailand,THA,7513,7166,6843,6547,6252,5965,5664,5396,5148,4932,4748,4575,4420,4251,4098,..
+Number of stillbirths,SH.DTH.STLB,South Africa,ZAF,21229,21161,21114,21110,21134,21016,20926,20837,20649,20493,20415,20272,20106,19874,19612,..
+Number of stillbirths,SH.DTH.STLB,Angola,AGO,25531,25484,25469,25582,25660,25603,25525,25415,25444,25392,25458,25538,25673,25745,25967,..
+Number of stillbirths,SH.DTH.STLB,Zimbabwe,ZWE,10010,10407,10806,11135,11333,11335,11163,10857,10386,9358,8392,7743,7335,7169,7113,..
+"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,Canada,CAN,..,1.9086,..,1.959,..,2.0384,..,2.3962,2.4509,2.4961,2.5388,2.3105,2.6102,2.4251,2.4425,..
+"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,Cambodia,KHM,..,..,..,0.2444,0.2378,0.2302,0.2263,0.1651,..,0.1927,..,..,..,..,..,..
+"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,United States,USA,..,..,..,..,..,..,..,..,..,..,..,..,..,2.6036,..,..
+"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,Mexico,MEX,3.5303,3.762,3.843,3.8988,3.9581,3.9972,4.2008,4.2236,4.311,4.4526,4.6493,4.6488,4.7654,4.8496,..,..
+"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,Indonesia,IDN,..,..,..,..,0.2635,0.243,..,0.2007,0.3121,..,0.2738,..,0.3767,0.4269,0.4651,..
+"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,Thailand,THA,..,0.2875,0.2959,0.3164,0.3387,0.3906,..,..,..,..,0.4651,0.445,0.8075,0.805,0.9188,..
+"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,South Africa,ZAF,..,..,0.6988,0.6968,0.7074,0.7207,0.7227,0.7277,0.7422,0.7541,0.7814,0.7675,0.7833,0.7874,0.7923,..
+"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,Angola,AGO,..,..,..,..,0.1313,..,..,..,..,..,..,..,0.2146,..,..,..
+"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,Zimbabwe,ZWE,0.1255,..,0.0544,0.0596,0.121,0.1272,0.0817,0.0807,0.0834,0.124,0.1815,0.1788,0.1859,0.2096,..,..
+"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3,Canada,CAN,9.9467,10.0236,10.1208,10.289,10.3743,9.3233,9.2368,9.3473,9.4788,9.7475,9.8188,9.9194,9.9491,9.9874,11.812,..
+"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3,Cambodia,KHM,..,..,..,0.8453,0.8544,0.856,0.8733,0.923,1.2942,0.9622,0.5889,0.7195,0.7007,0.6855,1.0076,..
+"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3,United States,USA,9.9177,..,..,..,..,12.5927,..,..,..,..,..,..,14.5812,15.685,..,..
+"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3,Mexico,MEX,2.2053,2.2215,2.2832,2.3066,2.3624,2.4118,2.5093,2.5488,2.8044,2.6798,2.4177,2.5103,2.5078,3.149,2.3646,..
+"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3,Indonesia,IDN,..,..,..,..,..,..,..,..,..,..,1.299,..,2.0532,..,3.807,..
+"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3,Thailand,THA,..,1.5448,1.5283,1.5842,1.642,2.0643,..,..,..,..,2.3683,2.7724,2.9573,2.7593,3.1522,..
+"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3,South Africa,ZAF,..,..,..,..,..,..,..,..,1.1881,1.2264,1.2693,1.3315,1.3078,..,..,..
+"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3,Angola,AGO,..,..,..,..,1.3144,..,..,..,0.0012,..,..,..,..,0.4075,..,..
+"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3,Zimbabwe,ZWE,..,..,..,..,0.9491,0.8289,1.3201,1.1846,1.4024,1.5372,1.3825,1.4,2.5972,1.9346,..,..
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,Canada,CAN,58.6,59.2,59.7,60.2,60.7,61.2,61.7,62.2,62.7,63.2,63.7,64.1,..,..,..,..
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,Cambodia,KHM,15.7,16.2,16.7,17.2,17.7,18.3,18.8,19.4,19.9,20.5,21.1,21.7,..,..,..,..
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,United States,USA,61.9,62.5,63.1,63.7,64.2,64.8,65.3,65.8,66.4,66.9,67.4,67.9,..,..,..,..
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,Mexico,MEX,58.9,59.5,60.1,60.6,61.2,61.7,62.3,62.8,63.3,63.9,64.4,64.9,..,..,..,..
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,Indonesia,IDN,19.8,20.5,21.2,21.9,22.7,23.4,24.2,24.9,25.7,26.5,27.4,28.2,..,..,..,..
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,Thailand,THA,22.3,23.1,24,24.9,25.8,26.7,27.6,28.6,29.6,30.6,31.6,32.6,..,..,..,..
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,South Africa,ZAF,46.5,47.2,47.9,48.6,49.2,49.9,50.6,51.2,51.9,52.5,53.2,53.8,..,..,..,..
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,Angola,AGO,20.5,21.1,21.7,22.3,22.9,23.6,24.2,24.8,25.5,26.2,26.8,27.5,..,..,..,..
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,Zimbabwe,ZWE,33.3,33.8,34.3,34.8,35.3,35.7,36.2,36.6,37,37.3,37.7,38.2,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,Canada,CAN,..,..,..,..,..,..,8.4,..,..,..,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,Cambodia,KHM,..,..,..,..,..,..,2.9,..,..,..,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,United States,USA,..,..,..,..,..,..,9.4,..,..,..,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,Mexico,MEX,..,..,..,..,..,..,15.6,..,..,..,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,Indonesia,IDN,..,..,..,..,..,..,5.1,..,..,..,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,Thailand,THA,..,..,..,..,..,..,7.5,..,..,..,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,South Africa,ZAF,..,..,..,..,..,..,7,..,..,..,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,Angola,AGO,..,..,..,..,..,..,2.9,..,..,..,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,Zimbabwe,ZWE,..,..,..,..,..,..,9.8,..,..,..,..,..,..,..,..,..
+"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,Canada,CAN,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,Cambodia,KHM,1,0.9,0.9,0.9,0.9,0.8,0.8,0.8,0.8,0.7,0.7,0.7,0.6,0.6,0.6,0.5
+"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,United States,USA,..,..,..,..,..,0.5,0.5,0.5,0.5,0.5,0.5,0.4,0.4,0.4,0.4,..
+"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,Mexico,MEX,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.4
+"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,Indonesia,IDN,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.4,0.4
+"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,Thailand,THA,1.8,1.7,1.7,1.7,1.6,1.6,1.5,1.5,1.4,1.4,1.3,1.3,1.2,1.2,1.1,1
+"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,South Africa,ZAF,15.9,16.2,16.5,16.9,17.3,17.7,18.1,18.4,18.7,19,19.2,19.3,19.4,19.4,19.3,19.1
+"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,Angola,AGO,1.6,1.7,1.7,1.8,1.9,1.9,1.9,1.9,2,2,1.9,1.9,1.9,1.9,1.8,1.8
+"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,Zimbabwe,ZWE,18,17.1,16.5,15.9,15.5,15.2,15,14.8,14.5,14.3,14,13.6,13.2,12.8,12.4,11.9
+Adults (ages 15+) living with HIV,SH.DYN.AIDS,Canada,CAN,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Adults (ages 15+) living with HIV,SH.DYN.AIDS,Cambodia,KHM,76000,76000,75000,75000,75000,76000,76000,75000,75000,75000,74000,74000,73000,73000,72000,72000
+Adults (ages 15+) living with HIV,SH.DYN.AIDS,United States,USA,..,..,..,..,..,960000,980000,1000000,1000000,1100000,1100000,1100000,1100000,1200000,1200000,..
+Adults (ages 15+) living with HIV,SH.DYN.AIDS,Mexico,MEX,190000,190000,200000,210000,220000,230000,240000,250000,260000,270000,280000,290000,300000,320000,330000,340000
+Adults (ages 15+) living with HIV,SH.DYN.AIDS,Indonesia,IDN,200000,240000,280000,320000,350000,390000,420000,440000,470000,480000,500000,510000,510000,520000,520000,520000
+Adults (ages 15+) living with HIV,SH.DYN.AIDS,Thailand,THA,670000,660000,650000,630000,620000,610000,600000,580000,570000,560000,540000,530000,520000,510000,510000,500000
+Adults (ages 15+) living with HIV,SH.DYN.AIDS,South Africa,ZAF,4400000,4600000,4800000,5000000,5200000,5500000,5700000,5900000,6200000,6400000,6600000,6800000,7000000,7200000,7300000,7500000
+Adults (ages 15+) living with HIV,SH.DYN.AIDS,Angola,AGO,150000,160000,180000,190000,200000,220000,230000,240000,250000,260000,270000,280000,280000,290000,300000,300000
+Adults (ages 15+) living with HIV,SH.DYN.AIDS,Zimbabwe,ZWE,1200000,1100000,1100000,1100000,1100000,1100000,1100000,1100000,1100000,1100000,1200000,1200000,1200000,1200000,1200000,1200000
+Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD,Canada,CAN,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD,Cambodia,KHM,3200,2800,2400,2000,1800,1600,1400,1300,1300,1200,1200,1200,1100,1000,1000,1000
+Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD,United States,USA,..,..,..,..,..,34000,33000,33000,31000,32000,32000,32000,31000,30000,29000,..
+Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD,Mexico,MEX,14000,14000,13000,13000,14000,14000,16000,17000,18000,17000,17000,18000,18000,18000,18000,18000
+Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD,Indonesia,IDN,43000,46000,46000,45000,45000,45000,44000,43000,40000,37000,34000,31000,30000,28000,26000,24000
+Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD,Thailand,THA,21000,19000,18000,16000,15000,14000,13000,13000,12000,11000,10000,9300,8600,7800,7100,6500
+Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD,South Africa,ZAF,410000,390000,380000,370000,370000,360000,350000,330000,310000,290000,270000,260000,250000,230000,210000,200000
+Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD,Angola,AGO,20000,20000,20000,21000,21000,20000,20000,20000,19000,18000,18000,17000,17000,16000,16000,16000
+Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD,Zimbabwe,ZWE,62000,59000,57000,56000,54000,53000,48000,44000,42000,39000,36000,33000,29000,24000,24000,19000
+Children (0-14) living with HIV,SH.HIV.0014,Canada,CAN,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Children (0-14) living with HIV,SH.HIV.0014,Cambodia,KHM,5900,6000,6100,6100,6100,6000,5800,5600,5300,4900,4500,4200,3800,3500,3100,2800
+Children (0-14) living with HIV,SH.HIV.0014,United States,USA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Children (0-14) living with HIV,SH.HIV.0014,Mexico,MEX,1900,2200,2400,2400,2500,2500,2500,2500,2500,2400,2400,2300,2300,2300,2300,2300
+Children (0-14) living with HIV,SH.HIV.0014,Indonesia,IDN,2700,3600,4500,5600,6700,8000,9300,11000,12000,13000,14000,15000,16000,17000,17000,18000
+Children (0-14) living with HIV,SH.HIV.0014,Thailand,THA,18000,17000,16000,15000,14000,12000,11000,10000,8800,7600,6400,5200,4300,3500,2800,2400
+Children (0-14) living with HIV,SH.HIV.0014,South Africa,ZAF,250000,270000,290000,320000,340000,360000,370000,370000,380000,380000,380000,370000,360000,350000,330000,310000
+Children (0-14) living with HIV,SH.HIV.0014,Angola,AGO,20000,22000,25000,27000,29000,31000,33000,35000,37000,37000,39000,40000,41000,41000,40000,39000
+Children (0-14) living with HIV,SH.HIV.0014,Zimbabwe,ZWE,160000,160000,160000,150000,150000,140000,140000,130000,120000,110000,110000,100000,96000,90000,84000,79000
+Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14,Canada,CAN,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14,Cambodia,KHM,830,750,630,560,500,500,500,500,500,500,200,200,200,200,200,100
+Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14,United States,USA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14,Mexico,MEX,500,700,620,550,500,500,500,500,500,500,500,500,500,500,500,500
+Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14,Indonesia,IDN,1500,1900,2200,2500,2800,3100,3400,3500,3600,3700,3700,3600,3500,3400,3300,3200
+Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14,Thailand,THA,1700,1500,1300,1100,840,670,500,500,500,500,200,100,100,100,100,100
+Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14,South Africa,ZAF,72000,73000,72000,68000,58000,45000,34000,31000,26000,23000,17000,14000,15000,12000,11000,12000
+Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14,Angola,AGO,6700,6700,7200,7400,7700,7800,8400,8400,8200,7600,7700,8000,8100,7400,6200,5200
+Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14,Zimbabwe,ZWE,25000,24000,23000,22000,20000,17000,14000,9500,9000,8000,7700,6600,5800,5100,4700,5100
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,Canada,CAN,99.23464422,99.23461957,99.23549716,99.23607708,99.23635504,99.23634886,99.23589396,99.23432608,99.23268617,99.23098502,99.22922139,99.22739547,99.22553764,99.22363119,99.22164984,99.22181066
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,Cambodia,KHM,60.294322,61.22719385,62.12338724,62.9930786,63.87999387,64.73036087,65.54445489,66.32257759,67.06475682,67.77182986,68.44384896,69.08113407,69.68376913,70.25363342,70.79082652,71.21988497
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,United States,USA,98.8536874,98.86083682,98.86794461,98.87501291,98.88203953,98.97895208,99.07488707,99.16968809,99.26337949,99.35588121,99.44715776,99.53713865,99.62581578,99.71312112,99.79904438,99.88352668
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,Mexico,MEX,93.09668937,93.71099729,94.32032157,94.90809059,95.36710258,95.82133427,96.27120298,96.71644433,97.15725463,97.5936259,98.02544354,98.45286453,98.87578129,99.26913243,99.47726394,99.67956828
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,Indonesia,IDN,80.02217385,80.92466101,81.81767312,82.70159068,83.57565413,84.43671954,85.27144926,86.09794725,86.91591354,87.72586319,88.52735296,89.32043532,90.10462418,90.88029952,91.64729028,92.41534961
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,Thailand,THA,95.89888739,96.27914601,96.6510406,97.01439615,97.36888549,97.7144676,98.04012068,98.35799726,98.67060441,98.97793277,99.25917058,99.44567029,99.76972457,99.84851617,99.96483315,100
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,South Africa,ZAF,87.16428233,87.67812704,88.18248627,88.67766946,89.16270481,89.63843841,90.10468946,90.56175402,91.00903337,91.44727967,91.87634387,92.29629284,92.70702351,93.10863459,93.5012265,93.88505744
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,Angola,AGO,46.33601912,47.15022864,47.96147053,48.77040378,49.57516542,50.37684093,51.17483374,51.9685411,52.75734684,53.5415069,54.31692835,55.08427644,55.84290632,56.59174872,56.88303903,57.16773762
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,Zimbabwe,ZWE,70.16310803,69.63880335,69.11454478,68.58996496,68.06548108,67.54071095,67.01607639,66.49118469,65.96647418,65.45410818,64.95492911,64.46896436,63.99662473,63.53877337,63.09495688,62.66645761
+People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,Canada,CAN,99.80519484,99.75033789,99.69595411,99.6414571,99.5868457,99.53213067,99.47721571,99.42171918,99.36619078,99.31064352,99.25507123,99.19947682,99.14388406,99.08828896,99.03268117,99.03286158
+People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,Cambodia,KHM,23.33220447,26.14679527,28.98279548,31.85696911,34.84063238,37.84219611,40.8613316,43.89771493,46.9506025,50.02047495,53.10657357,56.20854526,59.32568468,62.45973544,65.60982804,68.76930002
+People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,United States,USA,99.8817868,99.88154042,99.88129549,99.8810546,99.88081511,99.86076619,99.84103269,99.82162867,99.80256859,99.78386084,99.7655241,99.74755356,99.72996764,99.71277377,99.69599445,99.67961928
+People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,Mexico,MEX,81.27377788,82.07830717,82.87293106,83.65830449,84.43419231,85.20102819,85.95971004,86.70980432,87.45178303,88.18573213,88.91148404,89.62944687,90.33947554,91.04184497,91.73666093,92.42406261
+People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,Indonesia,IDN,49.29277182,51.63089589,53.99525073,56.38531405,58.79885691,61.23020925,63.65928867,66.11190851,68.58672819,71.08355243,73.60086085,76.13784121,78.69303054,81.2661059,83.85609129,86.462642
+People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,Thailand,THA,93.83781676,94.13753606,94.4425781,94.75302481,95.06909558,95.39077552,95.72517684,96.06462166,96.40752741,96.75388237,97.10370657,97.45533132,97.79090683,98.12521791,98.42052549,98.71311912
+People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,South Africa,ZAF,64.01580626,65.04813012,66.07165911,67.08632138,68.0912245,69.08668367,70.07234949,71.04814234,72.01358167,72.96880358,73.9135389,74.84761764,75.77086841,76.68318836,77.58447964,78.47461071
+People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,Angola,AGO,34.72263851,35.99128127,37.25930604,38.52751059,39.79427161,41.06079267,42.32666372,43.59147171,44.85479322,46.11702927,47.37448057,48.62794482,49.87698012,51.12074396,51.39362406,51.66032915
+People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,Zimbabwe,ZWE,44.25558931,43.63137284,43.00931651,42.3891721,41.77119879,41.1551677,40.54131187,39.92942468,39.3197202,38.71708617,38.1206465,37.52919272,36.94167282,36.35716003,35.77433736,35.19236284
+People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS,Canada,CAN,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS,Cambodia,KHM,..,..,..,62.57489425,62.69676083,62.82032527,62.94558205,63.07254222,64.49106226,65.89103445,67.27171566,68.63269854,69.97338241,71.29451271,72.59513859,73.87465491
+People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS,United States,USA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS,Mexico,MEX,..,..,..,..,..,..,89.66001526,89.68317442,89.70633655,89.72949429,89.75249473,89.77550185,89.79834169,89.82111114,89.84379235,..
+People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS,Indonesia,IDN,..,69.85283043,70.04840506,70.24471508,70.44077974,70.63218206,73.35761843,76.05299916,78.71796572,81.35312153,83.95799441,86.53271571,89.07706113,91.59156142,94.0763809,94.10706813
+People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS,Thailand,THA,..,..,..,..,..,84.70167328,84.73123772,84.75746196,84.78372605,84.81005803,84.83642515,84.86289749,84.88929973,84.91559635,84.94168259,84.96759329
+People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS,South Africa,ZAF,..,..,..,..,..,..,..,43.34615471,43.47679019,43.60692689,43.73631354,43.86494561,43.99257483,44.11920031,44.24482361,44.36969558
+People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS,Angola,AGO,..,..,..,..,..,..,..,25.94168867,26.09391769,26.24511041,26.39339879,26.5392,26.68230262,26.82229525,26.95980034,27.09419377
+People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS,Zimbabwe,ZWE,..,..,..,..,42.64874582,42.61307711,42.57760589,42.54212984,42.50685281,42.47745776,42.45413384,42.4366939,42.42512965,42.41964219,42.41984006,42.42611114
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,Canada,CAN,6.46600008010864,6.09200000762939,5.65299987792969,5.65199995040894,7.00500011444092,7.24300003051758,7.00899982452393,6.81699991226196,6.59700012207031,6.38899993896484,6.29199981689453,6.24100017547607,5.85099983215332,5.48899984359741,5.25,9.38599967956543
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,Cambodia,KHM,1.17999994754791,1.20000004768372,1.192999958992,0.819999992847443,0.560000002384186,0.790000021457672,0.479999989271164,0.499000012874603,0.523000001907349,0.689999997615814,0.456999987363815,0.855000019073486,0.171000003814697,0.17399999499321,0.178000003099442,0.379000008106232
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,United States,USA,5.09600019454956,4.625,4.49599981307983,5.41400003433228,8.05900001525879,8.60999965667725,8.46100044250488,7.88700008392334,7.06899976730347,6.06199979782104,5.17799997329712,4.78900003433228,4.31199979782104,3.84100008010864,3.61100006103516,8.34500026702881
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,Mexico,MEX,3.90899991989136,3.89000010490417,4,4.02899980545044,5.35400009155273,5.17999982833862,5.13199996948242,4.88399982452393,4.9539999961853,4.84800004959106,4.44700002670288,3.91000008583069,3.60199999809265,3.42899990081787,3.51699995994568,4.09700012207031
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,Indonesia,IDN,10.039999961853,9.2790002822876,9.9040002822876,8.10400009155273,6.70499992370605,6.38800001144409,5.56400012969971,4.78599977493286,4.27199983596802,3.88199996948242,4.4229998588562,3.86899995803833,3.59899997711182,4.18100023269653,3.34800004959106,3.77800011634827
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,Thailand,THA,1.21000003814697,1.12199997901917,1.06599998474121,1.03999996185303,0.875,0.620000004768372,0.675999999046326,0.531000018119812,0.238999992609024,0.564000010490417,0.611000001430511,0.712000012397766,0.841000020503998,0.748000025749207,0.736000001430511,1.08899998664856
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,South Africa,ZAF,36.4389991760254,35.8440017700195,33.0880012512207,25.8190002441406,25.5769996643066,27.0200004577637,27.2360000610352,27.0939998626709,26.5480003356934,27.0429992675781,27.5480003356934,29.0130004882813,29.2830009460449,29.0709991455078,30.5139999389648,31.0359992980957
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,Angola,AGO,3.0220000743866,2.9779999256134,2.92499995231628,2.87899994850159,2.84200000762939,10.9250001907349,7.72100019454956,7.71500015258789,7.74100017547607,7.75400018692017,7.7810001373291,7.80700016021729,7.80999994277954,7.8289999961853,7.83500003814697,8.77400016784668
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,Zimbabwe,ZWE,4.74300003051758,4.95499992370605,5.1729998588562,5.42899990081787,5.56500005722046,5.75799989700317,5.98799991607666,5.69500017166138,5.45100021362305,5.16599988937378,5.17700004577637,5.19099998474121,5.19199991226196,5.20599985122681,5.2480001449585,5.79099988937378
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,Canada,CAN,6.76000022888184,6.32000017166138,6.03999996185303,6.1399998664856,8.34000015258789,8.0600004196167,7.51000022888184,7.28999996185303,7.07000017166138,6.90999984741211,6.90999984741211,7,6.34000015258789,5.82999992370605,5.65999984741211,9.46000003814697
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,Cambodia,KHM,1.13100004196167,1.20899999141693,1.25999999046326,0.819999992847443,0.579999983310699,0.769999980926514,0.579999983310699,0.509999990463257,0.439999997615814,0.689999997615814,0.389999985694885,0.720000028610229,0.140000000596046,0.14300000667572,0.146999999880791,0.331000000238419
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,United States,USA,5.07999992370605,4.61999988555908,4.61999988555908,5.78000020980835,9.25,9.63000011444092,8.94999980926514,8.06999969482422,7.36999988555908,6.17000007629395,5.28000020980835,4.86999988555908,4.3600001335144,3.90000009536743,3.67000007629395,8.05000019073486
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,Mexico,MEX,3.55999994277954,3.5699999332428,3.63000011444092,3.86999988555908,5.3600001335144,5.30000019073486,5.17000007629395,4.8899998664856,4.90999984741211,4.80999994277954,4.30999994277954,3.85999989509583,3.42000007629395,3.27999997138977,3.48000001907349,4.44999980926514
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,Indonesia,IDN,7.94000005722046,7.55000019073486,8.0600004196167,7.21000003814697,6.1100001335144,5.6100001335144,5.15000009536743,4.46999979019165,4.34000015258789,4.05000019073486,4.51000022888184,4.30000019073486,3.88000011444092,4.40000009536743,3.61999988555908,4.28000020980835
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,Thailand,THA,1.35000002384186,1.22000002861023,1.17999994754791,1.17999994754791,0.949000000953674,0.620000004768372,0.660000026226044,0.579999983310699,0.25,0.579999983310699,0.600000023841858,0.689999997615814,0.829999983310699,0.769999980926514,0.720000028610229,1.10000002384186
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,South Africa,ZAF,29.1200008392334,28.3400001525879,26.5400009155273,22.4099998474121,23.5200004577637,24.6800003051758,24.6399993896484,24.7299995422363,24.5599994659424,24.8899993896484,25.1499996185303,26.5400009155273,27.0400009155273,26.9099998474121,28.4699993133545,29.2199993133545
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,Angola,AGO,3.88199996948242,3.85800004005432,3.82100009918213,3.79299998283386,3.77999997138977,9.43000030517578,7.3600001335144,7.34700012207031,7.36600017547607,7.37200021743774,7.39200019836426,7.41200017929077,7.40799999237061,7.4210000038147,7.4210000038147,8.33300018310547
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,Zimbabwe,ZWE,4.53800010681152,4.68100023269653,4.8289999961853,5.01399993896484,5.08300018310547,5.20900011062622,5.36999988555908,5.15299987792969,4.98199987411499,4.76999998092651,4.77799987792969,4.78800010681152,4.78499984741211,4.7960000038147,4.83300018310547,5.35099983215332
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,Canada,CAN,7.01700019836426,6.52199983596802,6.38399982452393,6.57200002670288,9.53299999237061,8.79399967193604,7.95900011062622,7.71600008010864,7.49700021743774,7.37799978256226,7.46199989318848,7.68100023269653,6.7810001373291,6.13899993896484,6.03000020980835,9.52600002288818
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,Cambodia,KHM,1.08399999141693,1.21700000762939,1.32299995422363,0.819999992847443,0.600000023841858,0.75,0.680000007152557,0.519999980926514,0.361999988555908,0.689999997615814,0.328000009059906,0.592999994754791,0.109999999403954,0.112999998033047,0.116999998688698,0.28600001335144
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,United States,USA,5.06599998474121,4.61499977111816,4.72499990463257,6.09299993515015,10.2760000228882,10.5080003738403,9.37100028991699,8.22700023651123,7.62799978256226,6.26200008392334,5.36700010299683,4.93900012969971,4.40199995040894,3.95099997520447,3.72099995613098,7.7960000038147
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,Mexico,MEX,3.36800003051758,3.38899993896484,3.41899991035461,3.77900004386902,5.36399984359741,5.36999988555908,5.19199991226196,4.89400005340576,4.88399982452393,4.78800010681152,4.22800016403198,3.82999992370605,3.31200003623962,3.18899989128113,3.45700001716614,4.66699981689453
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,Indonesia,IDN,6.76599979400635,6.58199977874756,6.94600009918213,6.66300010681152,5.74399995803833,5.12799978256226,4.89499998092651,4.27500009536743,4.38199996948242,4.15299987792969,4.56300020217896,4.56899976730347,4.05900001525879,4.54099988937378,3.79800009727478,4.60699987411499
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,Thailand,THA,1.47000002861023,1.30299997329712,1.27699995040894,1.29999995231628,1.01199996471405,0.620000004768372,0.646000027656555,0.621999979019165,0.25900000333786,0.593999981880188,0.591000020503998,0.671999990940094,0.820999979972839,0.787999987602234,0.705999970436096,1.10899996757507
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,South Africa,ZAF,23.5209999084473,22.5510005950928,21.4570007324219,19.7509994506836,21.9220008850098,22.8740005493164,22.5979995727539,22.8780002593994,22.9740009307861,23.1700000762939,23.2240009307861,24.5580005645752,25.2199993133545,25.1480007171631,26.80299949646,27.753999710083
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,Angola,AGO,4.72599983215332,4.72200012207031,4.70300006866455,4.69600009918213,4.70699977874756,7.94999980926514,7.01000022888184,6.98899984359741,7,6.99900007247925,7.01200008392334,7.02400016784668,7.01300001144409,7.01900005340576,7.01200008392334,7.90100002288818
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,Zimbabwe,ZWE,4.32999992370605,4.40100002288818,4.47700023651123,4.58799982070923,4.58599996566772,4.6399998664856,4.72800016403198,4.58500003814697,4.4850001335144,4.34800004959106,4.35200023651123,4.35799980163574,4.35300016403198,4.3600001335144,4.39300012588501,4.8899998664856
+Maternal leave benefits (% of wages paid in covered period),SH.MMR.WAGE.ZS,Canada,CAN,..,..,..,..,40,..,35,..,37,..,55,..,55,..,..,..
+Maternal leave benefits (% of wages paid in covered period),SH.MMR.WAGE.ZS,Cambodia,KHM,..,..,..,..,50,..,50,..,50,..,50,..,50,..,..,..
+Maternal leave benefits (% of wages paid in covered period),SH.MMR.WAGE.ZS,United States,USA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Maternal leave benefits (% of wages paid in covered period),SH.MMR.WAGE.ZS,Mexico,MEX,..,..,..,..,100,..,100,..,100,..,100,..,100,..,..,..
+Maternal leave benefits (% of wages paid in covered period),SH.MMR.WAGE.ZS,Indonesia,IDN,..,..,..,..,100,..,100,..,100,..,100,..,100,..,..,..
+Maternal leave benefits (% of wages paid in covered period),SH.MMR.WAGE.ZS,Thailand,THA,..,..,..,..,100,..,100,..,100,..,100,..,100,..,..,..
+Maternal leave benefits (% of wages paid in covered period),SH.MMR.WAGE.ZS,South Africa,ZAF,..,..,..,..,60,..,60,..,60,..,60,..,66,..,..,..
+Maternal leave benefits (% of wages paid in covered period),SH.MMR.WAGE.ZS,Angola,AGO,..,..,..,..,100,..,100,..,100,..,100,..,100,..,..,..
+Maternal leave benefits (% of wages paid in covered period),SH.MMR.WAGE.ZS,Zimbabwe,ZWE,..,..,..,..,100,..,100,..,100,..,100,..,100,..,..,..
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Canada,CAN,80.1926829268293,80.3439024390244,80.5439024390244,80.6951219512195,80.9951219512195,81.2463414634146,81.4487804878049,81.6487804878049,81.7487804878049,81.8,81.9,81.9,81.9,82.0487804878049,82.0487804878049,..
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Cambodia,KHM,63.088,63.927,64.697,65.394,66.014,66.56,67.043,67.48,67.888,68.273,68.637,68.977,69.289,69.57,69.823,..
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,United States,USA,77.4878048780488,77.6878048780488,77.9878048780488,78.0390243902439,78.390243902439,78.5414634146342,78.6414634146341,78.7414634146342,78.7414634146342,78.8414634146341,78.690243902439,78.5390243902439,78.5390243902439,78.6390243902439,78.7878048780488,..
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Mexico,MEX,75.3,75.296,75.255,75.194,75.128,75.065,75.011,74.966,74.93,74.908,74.904,74.917,74.947,74.992,75.054,..
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Indonesia,IDN,67.334,67.717,68.105,68.485,68.853,69.205,69.542,69.866,70.179,70.481,70.768,71.035,71.282,71.509,71.716,..
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Thailand,THA,72.099,72.499,72.916,73.341,73.766,74.184,74.593,74.992,75.378,75.747,76.091,76.403,76.683,76.931,77.15,..
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,South Africa,ZAF,53.447,53.795,54.452,55.36,56.46,57.669,58.895,60.06,61.099,61.968,62.649,63.153,63.538,63.857,64.131,..
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Angola,AGO,50.165,51.143,52.177,53.243,54.311,55.35,56.33,57.236,58.054,58.776,59.398,59.925,60.379,60.782,61.147,..
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Zimbabwe,ZWE,43.241,43.853,44.947,46.504,48.449,50.64,52.896,55.032,56.897,58.41,59.534,60.294,60.812,61.195,61.49,..
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Canada,CAN,82.6,82.7,82.9,83,83.3,83.5,83.6,83.8,83.9,83.9,84,84,84,84.2,84.2,..
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Cambodia,KHM,65.312,66.15,66.904,67.569,68.145,68.64,69.072,69.47,69.854,70.234,70.61,70.975,71.318,71.629,71.909,..
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,United States,USA,80.1,80.3,80.6,80.6,80.9,81,81.1,81.2,81.2,81.3,81.2,81.1,81.1,81.2,81.4,..
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Mexico,MEX,77.999,78.035,78.039,78.026,78.004,77.979,77.952,77.922,77.89,77.86,77.837,77.826,77.827,77.844,77.879,..
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Indonesia,IDN,69.107,69.565,70.025,70.474,70.905,71.311,71.69,72.047,72.383,72.698,72.992,73.264,73.515,73.748,73.967,..
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Thailand,THA,75.619,75.981,76.383,76.815,77.265,77.725,78.186,78.64,79.078,79.49,79.863,80.189,80.468,80.704,80.9,..
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,South Africa,ZAF,55.927,56.281,56.994,57.995,59.218,60.565,61.935,63.236,64.394,65.359,66.108,66.654,67.064,67.398,67.679,..
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Angola,AGO,52.614,53.642,54.726,55.839,56.953,58.033,59.052,59.992,60.841,61.591,62.237,62.783,63.252,63.666,64.039,..
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Zimbabwe,ZWE,44.962,45.535,46.603,48.14,50.068,52.239,54.471,56.578,58.412,59.892,60.984,61.719,62.22,62.598,62.899,..
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Canada,CAN,77.9,78.1,78.3,78.5,78.8,79.1,79.4,79.6,79.7,79.8,79.9,79.9,79.9,80,80,..
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Cambodia,KHM,60.738,61.567,62.342,63.062,63.72,64.313,64.842,65.315,65.742,66.127,66.474,66.785,67.062,67.312,67.538,..
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,United States,USA,75,75.2,75.5,75.6,76,76.2,76.3,76.4,76.4,76.5,76.3,76.1,76.1,76.2,76.3,..
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Mexico,MEX,72.575,72.532,72.447,72.342,72.233,72.135,72.056,71.997,71.958,71.943,71.954,71.99,72.046,72.118,72.203,..
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Indonesia,IDN,65.579,65.899,66.228,66.554,66.872,67.182,67.485,67.784,68.081,68.371,68.651,68.914,69.156,69.375,69.572,..
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Thailand,THA,68.71,69.138,69.563,69.978,70.374,70.749,71.104,71.446,71.779,72.102,72.412,72.704,72.977,73.228,73.46,..
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,South Africa,ZAF,51.104,51.439,52.038,52.853,53.833,54.906,55.993,57.027,57.951,58.728,59.342,59.803,60.162,60.463,60.726,..
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Angola,AGO,47.893,48.821,49.807,50.826,51.85,52.848,53.79,54.66,55.447,56.14,56.737,57.242,57.677,58.064,58.416,..
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Zimbabwe,ZWE,41.573,42.193,43.276,44.81,46.724,48.884,51.117,53.24,55.106,56.632,57.778,58.565,59.105,59.501,59.798,..
+Net migration,SM.POP.NETM,Canada,CAN,..,..,1326431,..,..,..,..,1241416,..,..,..,..,1210159,..,..,..
+Net migration,SM.POP.NETM,Cambodia,KHM,..,..,-295987,..,..,..,..,-149999,..,..,..,..,-149999,..,..,..
+Net migration,SM.POP.NETM,United States,USA,..,..,5428756,..,..,..,..,4961716,..,..,..,..,4774029,..,..,..
+Net migration,SM.POP.NETM,Mexico,MEX,..,..,-562404,..,..,..,..,-422477,..,..,..,..,-300000,..,..,..
+Net migration,SM.POP.NETM,Indonesia,IDN,..,..,-1333685,..,..,..,..,-454447,..,..,..,..,-494777,..,..,..
+Net migration,SM.POP.NETM,Thailand,THA,..,..,59008,..,..,..,..,167314,..,..,..,..,97222,..,..,..
+Net migration,SM.POP.NETM,South Africa,ZAF,..,..,862221,..,..,..,..,919697,..,..,..,..,727026,..,..,..
+Net migration,SM.POP.NETM,Angola,AGO,..,..,357301,..,..,..,..,166267,..,..,..,..,32066,..,..,..
+Net migration,SM.POP.NETM,Zimbabwe,ZWE,..,..,-512676,..,..,..,..,-622997,..,..,..,..,-584288,..,..,..
+"Population ages 00-14, total",SP.POP.0014.TO,Canada,CAN,5699388,5667703,5635757,5616013,5608093,5606922,5636891,5657280,5671952,5691799,5709424,5740699,5799752,5882337,5957010,5995422
+"Population ages 00-14, total",SP.POP.0014.TO,Cambodia,KHM,4919913,4884569,4846707,4808363,4779983,4769772,4787157,4803021,4825072,4859074,4905112,4948930,5006532,5070166,5127182,5170334
+"Population ages 00-14, total",SP.POP.0014.TO,United States,USA,61707218,62115320,62324459,62414797,62456435,62498933,62395007,62220502,62001634,61818661,61657987,61459046,61313248,61148289,60902964,60531991
+"Population ages 00-14, total",SP.POP.0014.TO,Mexico,MEX,33749096,33798545,33787851,33739827,33692627,33666194,33640734,33657460,33693379,33707136,33676708,33676044,33614045,33512294,33405803,33310119
+"Population ages 00-14, total",SP.POP.0014.TO,Indonesia,IDN,67618156,67697354,67957690,68391140,68992007,69716216,69917357,70249118,70600834,70843582,70928717,71228822,71230548,71069736,70944816,70941104
+"Population ages 00-14, total",SP.POP.0014.TO,Thailand,THA,13924391,13704044,13492036,13284646,13083013,12890536,12819758,12720502,12601016,12475316,12350897,12170444,12010548,11863232,11713485,11553638
+"Population ages 00-14, total",SP.POP.0014.TO,South Africa,ZAF,14786130,14791617,14840942,14932291,15053477,15196945,15401412,15600147,15800774,16009828,16223293,16420143,16618491,16805770,16963349,17081570
+"Population ages 00-14, total",SP.POP.0014.TO,Angola,AGO,9111255,9459742,9823509,10201777,10590934,10987155,11418718,11849941,12280862,12710363,13136045,13571355,13999872,14421730,14837599,15248424
+"Population ages 00-14, total",SP.POP.0014.TO,Zimbabwe,ZWE,4993345,5009935,5048695,5108435,5187117,5283500,5387543,5508283,5638052,5764685,5878455,5986056,6064488,6122210,6174257,6229216
+"Population ages 15-19, female",SP.POP.1519.FE,Canada,CAN,1057095,1071021,1083177,1091597,1092176,1083175,1085457,1081795,1069108,1049786,1025384,1013235,1000719,990545,983367,977807
+"Population ages 15-19, female",SP.POP.1519.FE,Cambodia,KHM,784171,767191,766982,782842,801028,809420,816466,811541,797821,781974,768536,755936,743541,733258,727434,727375
+"Population ages 15-19, female",SP.POP.1519.FE,United States,USA,10492160,10577967,10670146,10755045,10803520,10810603,10817644,10766790,10668159,10563548,10472331,10450881,10432253,10411817,10390150,10360836
+"Population ages 15-19, female",SP.POP.1519.FE,Mexico,MEX,5232344,5275512,5330992,5394573,5453737,5497077,5519304,5516487,5497925,5479820,5472381,5474669,5487931,5505645,5516572,5514580
+"Population ages 15-19, female",SP.POP.1519.FE,Indonesia,IDN,10901483,10819706,10706394,10604619,10537886,10513417,10626698,10757785,10897692,11031200,11145324,11214361,11272987,11313572,11326565,11310294
+"Population ages 15-19, female",SP.POP.1519.FE,Thailand,THA,2528388,2488196,2458245,2438776,2423194,2404526,2395033,2384933,2374956,2365887,2356086,2322047,2277279,2226537,2177112,2133660
+"Population ages 15-19, female",SP.POP.1519.FE,South Africa,ZAF,2650559,2644637,2622372,2588870,2552729,2519856,2487472,2461635,2440789,2423142,2408505,2401855,2398254,2400570,2413807,2440831
+"Population ages 15-19, female",SP.POP.1519.FE,Angola,AGO,1071060,1106205,1142247,1178990,1216653,1255663,1293415,1333539,1376409,1422713,1473079,1526426,1583576,1644831,1710550,1780690
+"Population ages 15-19, female",SP.POP.1519.FE,Zimbabwe,ZWE,798875,794028,785971,776870,769889,766954,757542,753324,753875,758112,765094,766855,773408,784956,801392,822189
+"Population ages 15-19, male",SP.POP.1519.MA,Canada,CAN,1119679,1133820,1144449,1150113,1147819,1136647,1137832,1135604,1125505,1109125,1087471,1072381,1056417,1042778,1032482,1024372
+"Population ages 15-19, male",SP.POP.1519.MA,Cambodia,KHM,814388,794725,794330,815558,843878,863175,871013,862787,842745,819496,799075,779495,759692,742947,733333,732950
+"Population ages 15-19, male",SP.POP.1519.MA,United States,USA,11115594,11176564,11253399,11334850,11390060,11409037,11392457,11309789,11176147,11041137,10928437,10889069,10859786,10835147,10812989,10784617
+"Population ages 15-19, male",SP.POP.1519.MA,Mexico,MEX,5092115,5171916,5281575,5405560,5516239,5594298,5631193,5629129,5603386,5579715,5574391,5586386,5614403,5650382,5680011,5695013
+"Population ages 15-19, male",SP.POP.1519.MA,Indonesia,IDN,11232554,11111658,10975022,10877449,10838596,10854517,11044643,11232533,11414191,11583496,11732561,11833996,11921465,11986189,12016177,12008052
+"Population ages 15-19, male",SP.POP.1519.MA,Thailand,THA,2583212,2540297,2510578,2493990,2483179,2470657,2468743,2467351,2466858,2466480,2463376,2432835,2388764,2337241,2287403,2244846
+"Population ages 15-19, male",SP.POP.1519.MA,South Africa,ZAF,2695522,2688638,2664918,2629667,2591644,2556796,2525073,2500023,2479857,2462386,2447045,2438474,2432553,2432823,2445035,2472380
+"Population ages 15-19, male",SP.POP.1519.MA,Angola,AGO,1055634,1088745,1123011,1158548,1195628,1234473,1271097,1310141,1352094,1397730,1447636,1499249,1555353,1616144,1681692,1751828
+"Population ages 15-19, male",SP.POP.1519.MA,Zimbabwe,ZWE,762546,752932,742383,733645,729211,729897,722303,720860,725143,733893,745860,750800,760027,773998,793044,816706
+"Population ages 20-24, female",SP.POP.2024.FE,Canada,CAN,1090497,1106962,1118954,1129840,1140955,1151193,1156378,1170379,1191334,1212008,1221441,1222510,1212831,1198115,1181874,1163289
+"Population ages 20-24, female",SP.POP.2024.FE,Cambodia,KHM,805191,846963,837055,782736,715565,665639,658924,684923,730150,771302,794020,803459,799110,784891,768352,754488
+"Population ages 20-24, female",SP.POP.2024.FE,United States,USA,10087616,10219814,10344717,10459254,10557384,10645431,10793758,10956162,11106556,11221654,11274636,11277393,11211873,11101617,10987824,10885842
+"Population ages 20-24, female",SP.POP.2024.FE,Mexico,MEX,4906368,4950298,4993949,5036819,5080907,5129915,5200093,5276513,5351248,5412151,5451550,5472815,5471941,5457014,5441620,5434658
+"Population ages 20-24, female",SP.POP.2024.FE,Indonesia,IDN,10444025,10580615,10647151,10596181,10442655,10248949,10191353,10185378,10226555,10300601,10395750,10499809,10638025,10789299,10924467,11027508
+"Population ages 20-24, female",SP.POP.2024.FE,Thailand,THA,2614029,2580274,2531030,2472411,2414512,2366121,2339861,2337152,2352206,2373144,2391553,2408577,2412640,2404139,2385340,2357993
+"Population ages 20-24, female",SP.POP.2024.FE,South Africa,ZAF,2478972,2533959,2582656,2622089,2649618,2663857,2655010,2636825,2611418,2583270,2555762,2530293,2505776,2483249,2463553,2447270
+"Population ages 20-24, female",SP.POP.2024.FE,Angola,AGO,883180,917653,954334,992337,1030541,1068258,1103117,1138163,1173490,1209467,1246606,1284472,1323518,1364693,1409338,1458325
+"Population ages 20-24, female",SP.POP.2024.FE,Zimbabwe,ZWE,682704,691023,701752,713422,723396,730145,724927,716326,706712,699107,695401,688197,685919,688886,695804,705687
+"Population ages 20-24, male",SP.POP.2024.MA,Canada,CAN,1133619,1152539,1169178,1185831,1202142,1215842,1211854,1218251,1235857,1258166,1272658,1277567,1269556,1254725,1237212,1216655
+"Population ages 20-24, male",SP.POP.2024.MA,Cambodia,KHM,787011,832729,825194,770468,701243,650929,653612,693300,753646,806956,836314,848108,840567,819306,794773,773818
+"Population ages 20-24, male",SP.POP.2024.MA,United States,USA,10561996,10692774,10807147,10914368,11015266,11117337,11293821,11477999,11641285,11758771,11803434,11788646,11692854,11545822,11398033,11270787
+"Population ages 20-24, male",SP.POP.2024.MA,Mexico,MEX,4675117,4720383,4764634,4813212,4874754,4954698,5060182,5181316,5303364,5404395,5471577,5514205,5523600,5512439,5501809,5505161
+"Population ages 20-24, male",SP.POP.2024.MA,Indonesia,IDN,10543198,10677878,10726088,10631880,10417057,10165368,10169355,10251123,10395071,10568750,10748611,10924035,11118282,11313352,11486572,11625762
+"Population ages 20-24, male",SP.POP.2024.MA,Thailand,THA,2659449,2619522,2562360,2495274,2430607,2378821,2359151,2363985,2386259,2413546,2438093,2463667,2477987,2480112,2470482,2449911
+"Population ages 20-24, male",SP.POP.2024.MA,South Africa,ZAF,2519093,2577239,2627878,2668106,2695507,2708902,2700945,2683805,2659100,2630897,2602457,2574473,2546653,2520301,2496689,2476821
+"Population ages 20-24, male",SP.POP.2024.MA,Angola,AGO,865667,898357,933107,969182,1005629,1041975,1075990,1110305,1144971,1180350,1216979,1253733,1291967,1332444,1376245,1424241
+"Population ages 20-24, male",SP.POP.2024.MA,Zimbabwe,ZWE,615931,622610,630642,638389,643735,646316,638368,629723,622790,619710,621626,621898,627646,639217,654640,672142
+"Population ages 25-29, female",SP.POP.2529.FE,Canada,CAN,1067433,1088653,1112280,1137922,1162681,1184274,1199459,1210076,1214032,1215737,1219092,1239753,1270149,1306806,1337916,1352972
+"Population ages 25-29, female",SP.POP.2529.FE,Cambodia,KHM,377995,434583,540211,676961,802403,880199,885864,836776,756689,686311,651091,646271,672529,717104,757525,779853
+"Population ages 25-29, female",SP.POP.2529.FE,United States,USA,9686957,9779971,9902539,10044091,10181218,10304292,10443233,10589604,10737644,10897993,11065654,11227974,11386433,11522288,11612802,11637241
+"Population ages 25-29, female",SP.POP.2529.FE,Mexico,MEX,4601912,4643707,4691363,4741188,4788132,4829693,4877857,4922691,4967874,5018745,5077419,5148037,5227939,5307386,5371472,5411644
+"Population ages 25-29, female",SP.POP.2529.FE,Indonesia,IDN,10212041,10289893,10390417,10542150,10716848,10843123,10787018,10632062,10426024,10242859,10127415,10058778,10058680,10111792,10190453,10278030
+"Population ages 25-29, female",SP.POP.2529.FE,Thailand,THA,2663370,2657696,2646863,2625102,2588502,2537465,2466465,2392218,2322897,2268208,2234450,2249402,2283509,2327736,2368092,2395209
+"Population ages 25-29, female",SP.POP.2529.FE,South Africa,ZAF,2127230,2180740,2247069,2321906,2398191,2470363,2520047,2568727,2612379,2645479,2664684,2671017,2660991,2639472,2613858,2588762
+"Population ages 25-29, female",SP.POP.2529.FE,Angola,AGO,718877,745610,775587,808088,842116,877070,911493,947662,984663,1021325,1057068,1091898,1126088,1160166,1194956,1231078
+"Population ages 25-29, female",SP.POP.2529.FE,Zimbabwe,ZWE,554832,565072,572539,578807,586332,596614,609059,621292,631158,636370,636598,634641,628299,618683,608689,601594
+"Population ages 25-29, male",SP.POP.2529.MA,Canada,CAN,1095038,1113061,1134518,1160207,1187432,1213374,1228128,1235687,1233798,1228300,1225813,1253408,1292615,1338806,1378289,1399227
+"Population ages 25-29, male",SP.POP.2529.MA,Cambodia,KHM,349288,406224,511485,647479,772025,848251,851455,800860,720962,653546,624672,630263,670100,728941,780739,809446
+"Population ages 25-29, male",SP.POP.2529.MA,United States,USA,9763408,9893582,10056833,10226040,10371385,10492057,10673928,10869402,11067803,11273421,11476865,11668459,11845886,11989672,12077266,12088740
+"Population ages 25-29, male",SP.POP.2529.MA,Mexico,MEX,4251370,4296141,4356043,4421779,4481827,4531813,4587997,4636963,4686951,4750181,4832295,4939208,5066629,5198286,5309027,5384130
+"Population ages 25-29, male",SP.POP.2529.MA,Indonesia,IDN,10304042,10378526,10467900,10601295,10746378,10823772,10744102,10559605,10329273,10143336,10055734,10044251,10130785,10287672,10467344,10640126
+"Population ages 25-29, male",SP.POP.2529.MA,Thailand,THA,2658809,2656568,2646467,2624022,2585996,2532620,2465566,2394373,2327646,2276193,2246721,2263673,2300291,2347952,2393282,2427195
+"Population ages 25-29, male",SP.POP.2529.MA,South Africa,ZAF,2145183,2207048,2280586,2361326,2442291,2517962,2569303,2620105,2665683,2700082,2719818,2724626,2712038,2687108,2657660,2628636
+"Population ages 25-29, male",SP.POP.2529.MA,Angola,AGO,699753,725182,753448,783905,815759,848595,881707,916519,952123,987463,1022076,1055852,1089442,1123076,1157224,1192393
+"Population ages 25-29, male",SP.POP.2529.MA,Zimbabwe,ZWE,480439,489285,496079,501186,505921,511221,516318,519346,519000,514873,508466,509624,509027,506560,503772,503568
+"Population ages 30-34, female",SP.POP.3034.FE,Canada,CAN,1082432,1087197,1095572,1109301,1127989,1150253,1168266,1193166,1221688,1248744,1266875,1279880,1285862,1291673,1302756,1319543
+"Population ages 30-34, female",SP.POP.3034.FE,Cambodia,KHM,448249,426094,386293,342924,323977,350504,424743,548286,691442,806564,864755,872428,823983,744057,673987,639170
+"Population ages 30-34, female",SP.POP.3034.FE,United States,USA,9819370,9802004,9805181,9829361,9871347,9935200,10014740,10131471,10271129,10428976,10592859,10751634,10897455,11032145,11166357,11297895
+"Population ages 30-34, female",SP.POP.3034.FE,Mexico,MEX,4352124,4409713,4455725,4494113,4530919,4569326,4613610,4657280,4699733,4740913,4781444,4826953,4874326,4924751,4980203,5041468
+"Population ages 30-34, female",SP.POP.3034.FE,Indonesia,IDN,9329416,9519447,9684981,9815223,9922809,10042623,10208146,10395352,10573411,10692246,10721206,10652503,10504768,10313303,10137485,10018019
+"Population ages 30-34, female",SP.POP.3034.FE,Thailand,THA,2835560,2815307,2797041,2780785,2764156,2742738,2697434,2641461,2572611,2492907,2408067,2352144,2302274,2262696,2239316,2234972
+"Population ages 30-34, female",SP.POP.3034.FE,South Africa,ZAF,1893489,1919813,1942838,1969009,2007173,2061972,2116285,2184431,2261528,2338469,2408916,2480786,2544937,2598731,2639035,2664079
+"Population ages 30-34, female",SP.POP.3034.FE,Angola,AGO,597736,622349,644260,664940,687077,712319,738664,767919,799462,832291,865793,899874,935067,970850,1006461,1041425
+"Population ages 30-34, female",SP.POP.3034.FE,Zimbabwe,ZWE,400964,414178,429155,444632,458954,471291,488382,502154,512915,522063,530448,540400,551028,560297,565307,564568
+"Population ages 30-34, male",SP.POP.3034.MA,Canada,CAN,1099889,1103251,1108947,1118088,1130958,1147916,1165604,1190616,1218671,1243696,1257783,1272482,1280146,1288159,1302859,1325129
+"Population ages 30-34, male",SP.POP.3034.MA,Cambodia,KHM,419762,398134,358640,315521,296720,323002,394404,514648,654253,765833,820862,826987,777117,697226,630274,602128
+"Population ages 30-34, male",SP.POP.3034.MA,United States,USA,9909923,9840160,9806412,9817439,9867342,9947267,10046221,10185388,10350982,10540064,10740926,10941543,11132584,11312323,11486356,11648827
+"Population ages 30-34, male",SP.POP.3034.MA,Mexico,MEX,4017208,4062685,4094477,4118917,4145791,4179879,4225043,4274877,4326300,4376002,4423295,4476367,4529884,4588592,4660173,4748412
+"Population ages 30-34, male",SP.POP.3034.MA,Indonesia,IDN,9452089,9654721,9832799,9967670,10066627,10163688,10305915,10467553,10618650,10709398,10710063,10612774,10434861,10221106,10045083,9955229
+"Population ages 30-34, male",SP.POP.3034.MA,Thailand,THA,2720244,2714164,2708461,2702430,2693244,2676801,2638489,2591661,2534006,2466090,2392031,2342459,2295472,2256586,2233931,2231722
+"Population ages 30-34, male",SP.POP.3034.MA,South Africa,ZAF,1874482,1909138,1942356,1979580,2028455,2092835,2148860,2219644,2300481,2381782,2456389,2529615,2593798,2646808,2686086,2710031
+"Population ages 30-34, male",SP.POP.3034.MA,Angola,AGO,578306,601323,621744,641036,661819,685593,710557,738186,767947,799044,830940,863133,896774,931244,965615,999332
+"Population ages 30-34, male",SP.POP.3034.MA,Zimbabwe,ZWE,356035,364039,374513,386464,398086,407730,419636,427126,430009,429607,426978,429749,432860,434865,434227,430306
+"Population ages 35-39, female",SP.POP.3539.FE,Canada,CAN,1166096,1143196,1130158,1127536,1131325,1138194,1143018,1152963,1165430,1180541,1196914,1221888,1251909,1286165,1317775,1339678
+"Population ages 35-39, female",SP.POP.3539.FE,Cambodia,KHM,427192,432219,441396,451071,453045,441691,414331,369353,324977,310224,341445,416047,538834,680361,793897,851364
+"Population ages 35-39, female",SP.POP.3539.FE,United States,USA,10315339,10185013,10103358,10063287,10039963,10023105,9995926,9985558,9991148,10029397,10101834,10201695,10319154,10447130,10580188,10707571
+"Population ages 35-39, female",SP.POP.3539.FE,Mexico,MEX,3842963,3944214,4049501,4152825,4245240,4321539,4386322,4434778,4472293,4507248,4544096,4580225,4619471,4661206,4703729,4746361
+"Population ages 35-39, female",SP.POP.3539.FE,Indonesia,IDN,8318511,8534379,8742287,8941675,9128784,9297702,9434552,9547925,9653359,9773866,9919381,10071765,10263623,10453762,10578564,10603161
+"Population ages 35-39, female",SP.POP.3539.FE,Thailand,THA,2990993,2996457,2985639,2964929,2943342,2925712,2897372,2869727,2838765,2798829,2745376,2679917,2608518,2534926,2464552,2401260
+"Population ages 35-39, female",SP.POP.3539.FE,South Africa,ZAF,1603415,1637100,1672790,1709081,1744443,1779140,1814956,1846761,1877828,1914739,1962629,2034542,2118514,2208924,2297221,2377613
+"Population ages 35-39, female",SP.POP.3539.FE,Angola,AGO,445715,468002,497081,529983,562057,590500,614549,635796,655703,676853,700895,726889,755240,785632,817417,850121
+"Population ages 35-39, female",SP.POP.3539.FE,Zimbabwe,ZWE,300556,304882,309683,315672,323582,333524,351771,372714,394963,416052,433939,447282,458041,467121,475690,484101
+"Population ages 35-39, male",SP.POP.3539.MA,Canada,CAN,1189576,1164393,1149104,1144462,1145924,1149183,1147894,1151100,1157516,1168182,1181478,1206020,1236935,1273037,1306888,1331106
+"Population ages 35-39, male",SP.POP.3539.MA,Cambodia,KHM,388719,396390,407524,419017,422773,412942,385075,339510,294226,277890,306621,378391,497154,633790,742625,796606
+"Population ages 35-39, male",SP.POP.3539.MA,United States,USA,10581641,10411269,10269822,10155612,10058543,9983665,9932456,9919416,9938076,9995301,10086472,10204698,10340917,10489753,10648938,10809054
+"Population ages 35-39, male",SP.POP.3539.MA,Mexico,MEX,3499053,3584828,3685823,3791140,3884041,3954708,4008215,4040744,4061092,4082781,4112974,4146847,4190202,4240442,4292520,4343789
+"Population ages 35-39, male",SP.POP.3539.MA,Indonesia,IDN,8491090,8708034,8924231,9137730,9340680,9521598,9651966,9748353,9829401,9922672,10041007,10164772,10329779,10494075,10592522,10590213
+"Population ages 35-39, male",SP.POP.3539.MA,Thailand,THA,2793749,2805332,2803615,2793613,2782575,2774202,2751835,2731138,2708109,2677019,2633687,2582193,2526479,2469018,2413272,2361773
+"Population ages 35-39, male",SP.POP.3539.MA,South Africa,ZAF,1565994,1602233,1641505,1682937,1725480,1769322,1807701,1842724,1877332,1917725,1969114,2045346,2133664,2228195,2320124,2403602
+"Population ages 35-39, male",SP.POP.3539.MA,Angola,AGO,434215,450940,476392,507086,537481,564223,586787,606789,625592,645683,668587,692777,719355,747958,777938,808851
+"Population ages 35-39, male",SP.POP.3539.MA,Zimbabwe,ZWE,275612,277756,280138,283617,289047,296577,310081,326484,344574,361467,374262,380560,384134,386106,387568,388501
+"Population ages 40-44, female",SP.POP.4044.FE,Canada,CAN,1361724,1341128,1305495,1263143,1224333,1195720,1170339,1159159,1158748,1163590,1167209,1177118,1188589,1204726,1225432,1247714
+"Population ages 40-44, female",SP.POP.4044.FE,Cambodia,KHM,387622,396923,402748,405880,408560,412694,419007,430902,442415,444153,431585,405611,361300,317297,302751,333868
+"Population ages 40-44, female",SP.POP.4044.FE,United States,USA,11203081,11065238,10892205,10705378,10526809,10379380,10256174,10179198,10132999,10108135,10090759,10084348,10076107,10072530,10089427,10129333
+"Population ages 40-44, female",SP.POP.4044.FE,Mexico,MEX,3286957,3387190,3490337,3595381,3701109,3806389,3913274,4019730,4121440,4212447,4289117,4348943,4395789,4433246,4467304,4502226
+"Population ages 40-44, female",SP.POP.4044.FE,Indonesia,IDN,7170396,7415012,7645224,7870369,8094411,8314815,8503677,8680551,8847648,9007295,9159616,9284097,9402115,9519229,9645670,9787218
+"Population ages 40-44, female",SP.POP.4044.FE,Thailand,THA,2787600,2839597,2897599,2954504,2999896,3028430,3026401,3013280,2994292,2974302,2953863,2920597,2882584,2838889,2787726,2728488
+"Population ages 40-44, female",SP.POP.4044.FE,South Africa,ZAF,1365125,1390810,1415643,1440489,1467091,1496604,1538366,1584080,1630245,1672460,1708628,1745594,1779012,1813975,1858565,1917268
+"Population ages 40-44, female",SP.POP.4044.FE,Angola,AGO,387261,396864,403996,411127,422158,439355,460920,488942,520548,551212,578254,601780,622220,641224,661568,684932
+"Population ages 40-44, female",SP.POP.4044.FE,Zimbabwe,ZWE,239133,240784,241939,242841,244025,245985,254845,264972,276471,289825,305380,322662,342470,363063,381904,397612
+"Population ages 40-44, male",SP.POP.4044.MA,Canada,CAN,1384431,1364835,1329049,1285515,1244827,1214011,1186150,1171603,1166628,1165928,1163767,1170039,1178380,1192025,1211087,1232765
+"Population ages 40-44, male",SP.POP.4044.MA,Cambodia,KHM,325606,343477,355708,362492,367034,372648,379522,392627,405572,408223,395708,369872,325249,280495,264472,293031
+"Population ages 40-44, male",SP.POP.4044.MA,United States,USA,11388653,11270222,11111249,10930389,10744346,10571911,10406127,10270825,10159711,10078574,10023351,9993668,9980448,9985745,10017138,10072161
+"Population ages 40-44, male",SP.POP.4044.MA,Mexico,MEX,3055130,3129359,3201158,3273050,3349828,3434031,3525877,3625417,3724760,3812285,3881263,3928631,3959654,3980587,4001703,4029738
+"Population ages 40-44, male",SP.POP.4044.MA,Indonesia,IDN,7308715,7550053,7780914,8013689,8250119,8484696,8692412,8883089,9058560,9221229,9371152,9483170,9582727,9676719,9777813,9893522
+"Population ages 40-44, male",SP.POP.4044.MA,Thailand,THA,2612175,2657766,2707996,2757278,2797782,2825386,2821257,2808890,2791936,2774101,2756033,2727118,2696516,2663058,2624654,2580352
+"Population ages 40-44, male",SP.POP.4044.MA,South Africa,ZAF,1303953,1331578,1358897,1386808,1417248,1451668,1495765,1543061,1590049,1632740,1669539,1707647,1743216,1781257,1829662,1892772
+"Population ages 40-44, male",SP.POP.4044.MA,Angola,AGO,409180,413055,411505,408531,410350,420579,437043,461724,491255,520339,545859,567469,586511,604437,623694,645763
+"Population ages 40-44, male",SP.POP.4044.MA,Zimbabwe,ZWE,205970,208718,211735,214751,217542,220200,227798,235605,244015,254055,266547,280334,296872,314133,329033,339915
+"Population ages 45-49, female",SP.POP.4549.FE,Canada,CAN,1307909,1330003,1351832,1371898,1383115,1380074,1357194,1320151,1273803,1229582,1193533,1177008,1172965,1180730,1192829,1202008
+"Population ages 45-49, female",SP.POP.4549.FE,Cambodia,KHM,313569,325026,339287,355000,369658,381434,388106,392103,394523,397499,402209,409523,421542,432748,434319,422008
+"Population ages 45-49, female",SP.POP.4549.FE,United States,USA,11185733,11274706,11326225,11333336,11284202,11185539,11033920,10855830,10663367,10492112,10355801,10254966,10181544,10128010,10084408,10038434
+"Population ages 45-49, female",SP.POP.4549.FE,Mexico,MEX,2747381,2839501,2936798,3037950,3140839,3244080,3347740,3450821,3553732,3657686,3762754,3863846,3967414,4068176,4158217,4233025
+"Population ages 45-49, female",SP.POP.4549.FE,Indonesia,IDN,5768058,6047509,6336452,6611008,6863730,7104124,7321368,7534464,7744222,7950440,8151405,8327595,8507173,8683811,8848317,8996891
+"Population ages 45-49, female",SP.POP.4549.FE,Thailand,THA,2534166,2598309,2648970,2692015,2737094,2789571,2834685,2883768,2929594,2963644,2983200,2993494,2990226,2975490,2953019,2925115
+"Population ages 45-49, female",SP.POP.4549.FE,South Africa,ZAF,1168999,1191173,1213318,1235640,1258505,1282036,1312414,1346022,1382604,1421214,1460528,1497529,1536942,1577505,1617202,1655021
+"Population ages 45-49, female",SP.POP.4549.FE,Angola,AGO,299797,317171,334672,351441,366427,379162,388215,394793,401317,411565,427734,448633,475507,505740,535168,561290
+"Population ages 45-49, female",SP.POP.4549.FE,Zimbabwe,ZWE,195318,196421,197687,198966,199912,200252,204108,208367,213262,219172,226306,234424,243623,254185,266516,280771
+"Population ages 45-49, male",SP.POP.4549.MA,Canada,CAN,1308670,1334881,1361166,1385367,1399674,1398362,1375669,1337424,1289407,1243415,1205148,1185734,1178512,1182916,1191727,1197964
+"Population ages 45-49, male",SP.POP.4549.MA,Cambodia,KHM,219388,233096,254405,281249,308318,330824,342338,348015,349975,352100,356689,364845,377880,390061,392287,380180
+"Population ages 45-49, male",SP.POP.4549.MA,United States,USA,11102518,11219605,11307947,11356884,11348860,11286494,11158836,11002458,10824334,10653436,10499981,10359944,10228384,10108590,10007483,9923364
+"Population ages 45-49, male",SP.POP.4549.MA,Mexico,MEX,2533549,2614177,2705312,2801860,2895826,2982395,3060839,3130877,3197646,3269851,3352058,3436374,3531846,3629641,3715950,3782769
+"Population ages 45-49, male",SP.POP.4549.MA,Indonesia,IDN,5837307,6150193,6449095,6716876,6952885,7172875,7387521,7610875,7839699,8067684,8288947,8476789,8667408,8852683,9021602,9169094
+"Population ages 45-49, male",SP.POP.4549.MA,Thailand,THA,2385342,2438762,2483284,2523154,2565584,2614353,2647351,2684000,2718237,2743182,2756581,2756922,2746533,2727862,2704966,2680302
+"Population ages 45-49, male",SP.POP.4549.MA,South Africa,ZAF,1077266,1099872,1123499,1148293,1174306,1201403,1235122,1271787,1311104,1351928,1392604,1427523,1464251,1502196,1540318,1578214
+"Population ages 45-49, male",SP.POP.4549.MA,Angola,AGO,309084,326080,345315,364460,380077,390353,394272,393012,390392,392314,402195,417847,441163,469026,496518,520750
+"Population ages 45-49, male",SP.POP.4549.MA,Zimbabwe,ZWE,155651,157041,158700,160491,162240,163800,169439,175635,182169,188920,195928,203405,210943,218971,228325,239524
+"Population ages 50-54, female",SP.POP.5054.FE,Canada,CAN,1165588,1192716,1219437,1247149,1274943,1301631,1327570,1355853,1378721,1387785,1376154,1356188,1320788,1279952,1243628,1215914
+"Population ages 50-54, female",SP.POP.5054.FE,Cambodia,KHM,269978,278888,285056,290134,296811,306672,317187,330913,345945,359473,369856,377267,381396,383665,386556,391385
+"Population ages 50-54, female",SP.POP.5054.FE,United States,USA,10188466,10406323,10636913,10864335,11053527,11187304,11233461,11244705,11214398,11152259,11056932,10928716,10755763,10558640,10372061,10211211
+"Population ages 50-54, female",SP.POP.5054.FE,Mexico,MEX,2244909,2337438,2426519,2514003,2603285,2696331,2789990,2885890,2983945,3084178,3186310,3283651,3383088,3484140,3586287,3688873
+"Population ages 50-54, female",SP.POP.5054.FE,Indonesia,IDN,4634162,4760567,4937926,5177297,5464919,5771052,6028403,6259628,6474101,6687798,6909067,7113450,7326939,7542882,7751237,7947047
+"Population ages 50-54, female",SP.POP.5054.FE,Thailand,THA,2019723,2116563,2215689,2314558,2407520,2490343,2553200,2602964,2645028,2687106,2732699,2782082,2832556,2879746,2917027,2940319
+"Population ages 50-54, female",SP.POP.5054.FE,South Africa,ZAF,985506,1012731,1035635,1055928,1076432,1098637,1125147,1153948,1184322,1215510,1247382,1275587,1304848,1335357,1367461,1401326
+"Population ages 50-54, female",SP.POP.5054.FE,Angola,AGO,207760,219019,234657,253204,272406,290794,307205,323652,339362,353303,365040,373654,379684,385632,395296,410848
+"Population ages 50-54, female",SP.POP.5054.FE,Zimbabwe,ZWE,163351,166410,167581,167499,167196,167229,169725,173024,176812,180685,184465,188594,193103,198083,203751,210343
+"Population ages 50-54, male",SP.POP.5054.MA,Canada,CAN,1146575,1174279,1203251,1234529,1266565,1297612,1330193,1363524,1389110,1399012,1387427,1366240,1330399,1289575,1253042,1224459
+"Population ages 50-54, male",SP.POP.5054.MA,Cambodia,KHM,196496,199119,197873,195518,197162,206497,222346,246009,273301,297781,315589,327657,333144,334652,336612,341437
+"Population ages 50-54, male",SP.POP.5054.MA,United States,USA,9892205,10118520,10356186,10595005,10806037,10974258,11055301,11111388,11131323,11117886,11064922,10964615,10815004,10632907,10447798,10272193
+"Population ages 50-54, male",SP.POP.5054.MA,Mexico,MEX,2078394,2152009,2223264,2294358,2369286,2450237,2533140,2621436,2712065,2800551,2884240,2954871,3020789,3085920,3156565,3236044
+"Population ages 50-54, male",SP.POP.5054.MA,Indonesia,IDN,4582557,4804338,5070881,5365654,5669277,5964179,6163084,6344016,6519158,6706454,6915004,7109528,7328815,7561845,7791556,8007935
+"Population ages 50-54, male",SP.POP.5054.MA,Thailand,THA,1925131,2005082,2086212,2168182,2247930,2322277,2371319,2411511,2447133,2483497,2522459,2558604,2593329,2623950,2646498,2658634
+"Population ages 50-54, male",SP.POP.5054.MA,South Africa,ZAF,875005,899058,919695,938545,958288,980439,1009118,1040999,1074864,1109390,1144125,1171353,1199358,1228340,1258726,1290806
+"Population ages 50-54, male",SP.POP.5054.MA,Angola,AGO,224787,233872,245201,258465,273307,289381,305399,323565,341626,356282,365861,369227,367732,365101,366921,376364
+"Population ages 50-54, male",SP.POP.5054.MA,Zimbabwe,ZWE,122685,124163,124862,125120,125428,125947,129132,132918,137188,141828,146761,152423,158805,165587,172400,179077
+"Population ages 55-59, female",SP.POP.5559.FE,Canada,CAN,1013424,1047353,1074950,1099934,1125532,1153012,1178566,1208198,1239882,1271392,1297676,1326131,1354000,1379348,1393291,1387786
+"Population ages 55-59, female",SP.POP.5559.FE,Cambodia,KHM,191287,202871,217261,232969,247645,259918,267821,273565,278513,284941,294117,304942,318359,332818,345957,356343
+"Population ages 55-59, female",SP.POP.5559.FE,United States,USA,8882598,9176966,9430077,9657566,9877876,10106492,10298376,10499225,10686892,10845478,10956521,11020058,11031766,10993071,10912492,10790474
+"Population ages 55-59, female",SP.POP.5559.FE,Mexico,MEX,1686827,1768219,1865639,1972849,2080048,2181193,2273365,2360104,2444121,2530293,2621363,2708095,2799350,2894328,2991678,3090563
+"Population ages 55-59, female",SP.POP.5559.FE,Indonesia,IDN,3734371,3787223,3845848,3912382,4002930,4141047,4382059,4662211,4964888,5264682,5545072,5785541,6012554,6229781,6444108,6659928
+"Population ages 55-59, female",SP.POP.5559.FE,Thailand,THA,1498076,1579122,1665067,1753996,1845127,1938968,2035119,2135587,2235177,2326258,2404532,2474999,2532233,2580576,2627389,2676632
+"Population ages 55-59, female",SP.POP.5559.FE,South Africa,ZAF,751955,777140,809851,846662,882619,914845,946167,975637,1003914,1032183,1061125,1084669,1108384,1132522,1157566,1183834
+"Population ages 55-59, female",SP.POP.5559.FE,Angola,AGO,183140,184745,185052,185734,189400,197522,208301,223081,240431,258243,275214,290561,305882,320553,333667,344802
+"Population ages 55-59, female",SP.POP.5559.FE,Zimbabwe,ZWE,115915,119045,124807,131796,137973,142147,145547,147763,149299,150994,153323,156037,159729,164118,168662,173037
+"Population ages 55-59, male",SP.POP.5559.MA,Canada,CAN,991996,1022582,1047177,1069883,1094370,1122183,1150798,1185456,1224715,1265114,1299563,1329787,1357857,1382440,1395746,1390399
+"Population ages 55-59, male",SP.POP.5559.MA,Cambodia,KHM,141812,149557,159427,169985,178835,184527,185431,183354,181302,183941,193821,209678,232312,257989,281103,298319
+"Population ages 55-59, male",SP.POP.5559.MA,United States,USA,8340883,8649320,8915935,9155372,9387434,9630249,9833244,10049331,10258525,10446891,10596937,10695951,10751438,10761873,10730282,10652968
+"Population ages 55-59, male",SP.POP.5559.MA,Mexico,MEX,1571326,1636257,1717228,1807814,1898005,1981748,2055074,2122451,2187742,2257430,2335033,2409434,2491771,2578268,2662963,2742491
+"Population ages 55-59, male",SP.POP.5559.MA,Indonesia,IDN,3692821,3746352,3839745,3996408,4217819,4486871,4722868,4954644,5182205,5405773,5624594,5802453,5976572,6152571,6338734,6540189
+"Population ages 55-59, male",SP.POP.5559.MA,Thailand,THA,1395174,1467178,1544355,1624618,1706312,1789656,1869863,1952440,2033955,2109018,2174769,2235757,2285577,2327433,2366595,2405809
+"Population ages 55-59, male",SP.POP.5559.MA,South Africa,ZAF,644829,665751,693131,723884,753906,780991,808341,835322,862500,890783,920544,941710,963633,986436,1010360,1035566
+"Population ages 55-59, male",SP.POP.5559.MA,Angola,AGO,182714,186139,188985,192234,197299,204925,213222,223486,235491,248990,263726,278114,294473,310774,323988,332588
+"Population ages 55-59, male",SP.POP.5559.MA,Zimbabwe,ZWE,87356,87893,90472,94108,97435,99658,102322,104576,106715,109210,112275,115437,119549,124512,129980,135632
+"Population ages 60-64, female",SP.POP.6064.FE,Canada,CAN,779549,818666,862577,909647,955239,995832,1028478,1056756,1080728,1103918,1127051,1157927,1191458,1228593,1265436,1296299
+"Population ages 60-64, female",SP.POP.6064.FE,Cambodia,KHM,147620,152022,156371,161501,168675,178587,189208,202837,217802,231641,242965,250876,256417,261151,267487,276711
+"Population ages 60-64, female",SP.POP.6064.FE,United States,USA,6796432,7138472,7532310,7948605,8341006,8687658,8956807,9186688,9385613,9584823,9793849,9995906,10189985,10361111,10493224,10570540
+"Population ages 60-64, female",SP.POP.6064.FE,Mexico,MEX,1354659,1396719,1438583,1484597,1541505,1612991,1692537,1785861,1887532,1989440,2086638,2170281,2250955,2330776,2413178,2500183
+"Population ages 60-64, female",SP.POP.6064.FE,Indonesia,IDN,3051631,3069024,3086691,3112167,3147265,3189800,3294366,3403884,3530472,3692226,3898057,4122822,4392519,4687442,4977672,5245489
+"Population ages 60-64, female",SP.POP.6064.FE,Thailand,THA,1169800,1206049,1252829,1308846,1372451,1442300,1515339,1593883,1676742,1763346,1853295,1948423,2049308,2150787,2245432,2328611
+"Population ages 60-64, female",SP.POP.6064.FE,South Africa,ZAF,635737,641308,645332,650821,662253,681989,710729,748066,790075,831252,868507,896056,920769,943697,966575,990310
+"Population ages 60-64, female",SP.POP.6064.FE,Angola,AGO,144700,147276,152251,158383,163896,167915,169372,169643,170343,173864,181512,191524,205034,220798,237032,252683
+"Population ages 60-64, female",SP.POP.6064.FE,Zimbabwe,ZWE,111204,109019,105364,101592,99615,100376,103528,109291,116356,122883,127861,131192,133655,135691,137988,140977
+"Population ages 60-64, male",SP.POP.6064.MA,Canada,CAN,753553,791162,832820,876935,919198,956550,991127,1020086,1043011,1065055,1089436,1121599,1160218,1204565,1248256,1284128
+"Population ages 60-64, male",SP.POP.6064.MA,Cambodia,KHM,108548,110742,113343,116817,121800,128553,135361,144480,154257,162186,167035,168402,166474,164457,167078,176808
+"Population ages 60-64, male",SP.POP.6064.MA,United States,USA,6111653,6423537,6808415,7231430,7636453,7994785,8265965,8499133,8703642,8911329,9133064,9342920,9547433,9734259,9890799,10003781
+"Population ages 60-64, male",SP.POP.6064.MA,Mexico,MEX,1263632,1297416,1329410,1364075,1408208,1465489,1528753,1604109,1686555,1768809,1846720,1910456,1971080,2031689,2096926,2169271
+"Population ages 60-64, male",SP.POP.6064.MA,Indonesia,IDN,2799218,2852064,2896377,2925432,2953684,3012734,3175156,3376903,3605988,3845363,4084676,4295821,4513012,4731819,4945148,5149357
+"Population ages 60-64, male",SP.POP.6064.MA,Thailand,THA,1044348,1077380,1117495,1163827,1216330,1275277,1339293,1408813,1481759,1556248,1631613,1714932,1801690,1887873,1968075,2039042
+"Population ages 60-64, male",SP.POP.6064.MA,South Africa,ZAF,523977,526965,528739,532118,540974,557055,579510,609280,643331,677402,709157,729760,748261,765902,784348,804405
+"Population ages 60-64, male",SP.POP.6064.MA,Angola,AGO,132820,137081,142539,148536,154175,159050,162052,164547,167417,171901,178671,185896,194666,204875,216455,229285
+"Population ages 60-64, male",SP.POP.6064.MA,Zimbabwe,ZWE,82558,79397,75349,71415,68878,68299,70117,73607,77977,82194,85752,88346,90750,93192,96013,99465
+"Population ages 65 and above, female",SP.POP.65UP.FE.IN,Canada,CAN,2388516,2431677,2477606,2532188,2597144,2672445,2745749,2833193,2929258,3029611,3125515,3231459,3340079,3459196,3586315,3712215
+"Population ages 65 and above, female",SP.POP.65UP.FE.IN,Cambodia,KHM,259249,269861,280865,292318,304168,316507,327529,339028,351510,365784,382354,402084,423758,446707,469952,493039
+"Population ages 65 and above, female",SP.POP.65UP.FE.IN,United States,USA,20902768,21152004,21452009,21818559,22251373,22763967,23322063,23960831,24654750,25405502,26196852,27010817,27807894,28595845,29401917,30224520
+"Population ages 65 and above, female",SP.POP.65UP.FE.IN,Mexico,MEX,3293377,3388804,3493614,3606359,3724468,3847520,3962488,4079486,4203968,4343208,4501504,4657127,4828477,5013893,5210284,5416872
+"Population ages 65 and above, female",SP.POP.65UP.FE.IN,Indonesia,IDN,6026100,6191893,6338197,6461565,6561865,6642643,6847626,7055510,7270845,7497922,7740160,7999729,8277652,8581718,8921665,9304960
+"Population ages 65 and above, female",SP.POP.65UP.FE.IN,Thailand,THA,2802829,2902718,3000705,3100904,3208008,3324904,3456486,3597674,3749855,3914308,4091937,4267000,4453041,4652412,4868259,5102345
+"Population ages 65 and above, female",SP.POP.65UP.FE.IN,South Africa,ZAF,1288437,1323806,1357951,1390792,1422221,1452459,1490980,1531069,1574274,1622565,1677160,1733123,1792414,1854322,1917657,1981762
+"Population ages 65 and above, female",SP.POP.65UP.FE.IN,Angola,AGO,278164,285791,292305,298253,304385,311143,319927,329349,338829,347477,354980,363537,370978,378459,387541,399128
+"Population ages 65 and above, female",SP.POP.65UP.FE.IN,Zimbabwe,ZWE,237764,242178,246619,250656,253670,255354,255813,255264,254347,254047,254913,259831,266177,273401,280665,287588
+"Population ages 65 and above, male",SP.POP.65UP.MA.IN,Canada,CAN,1841079,1890093,1941565,2000002,2066447,2140486,2216712,2305912,2404082,2506977,2606098,2710475,2815210,2928008,3048190,3168388
+"Population ages 65 and above, male",SP.POP.65UP.MA.IN,Cambodia,KHM,190300,196282,201792,207054,212324,217821,224594,231677,239235,247595,257002,269149,282353,295678,307844,318313
+"Population ages 65 and above, male",SP.POP.65UP.MA.IN,United States,USA,15480384,15790766,16118061,16483342,16901413,17392179,17964277,18606248,19294001,20021033,20768590,21558750,22323855,23069572,23819037,24571741
+"Population ages 65 and above, male",SP.POP.65UP.MA.IN,Mexico,MEX,2669385,2755597,2851196,2953273,3057305,3161417,3261727,3359637,3460096,3569917,3693117,3820021,3956874,4101778,4251580,4405359
+"Population ages 65 and above, male",SP.POP.65UP.MA.IN,Indonesia,IDN,4837527,4971741,5091672,5199496,5290976,5358416,5516041,5658803,5802836,5969114,6169739,6449507,6759662,7096172,7451985,7824492
+"Population ages 65 and above, male",SP.POP.65UP.MA.IN,Thailand,THA,2269633,2346154,2419535,2493148,2570507,2653368,2748403,2848696,2955492,3070112,3193201,3324016,3462467,3610233,3769707,3942151
+"Population ages 65 and above, male",SP.POP.65UP.MA.IN,South Africa,ZAF,919737,937128,952190,964653,974175,980894,1005013,1028504,1052597,1078895,1108459,1145860,1182908,1219000,1253381,1285813
+"Population ages 65 and above, male",SP.POP.65UP.MA.IN,Angola,AGO,212801,218705,224165,229404,234707,240242,248639,257171,265466,273002,279632,288603,296687,304406,312411,321122
+"Population ages 65 and above, male",SP.POP.65UP.MA.IN,Zimbabwe,ZWE,137952,138958,139603,139460,137928,134714,136110,136648,136764,137100,138008,141730,146190,151060,155868,160404
+Rural population (% of total population),SP.RUR.TOTL.ZS,Canada,CAN,19.878,19.787,19.604,19.422,19.242,19.063,18.904,18.863,18.822,18.782,18.741,18.7,18.65,18.589,18.518,18.438
+Rural population (% of total population),SP.RUR.TOTL.ZS,Cambodia,KHM,80.826,80.707,80.587,80.429,80.07,79.706,79.337,78.963,78.585,78.201,77.812,77.418,77.02,76.612,76.195,75.768
+Rural population (% of total population),SP.RUR.TOTL.ZS,United States,USA,20.072,19.901,19.731,19.562,19.394,19.228,19.056,18.881,18.701,18.517,18.329,18.138,17.942,17.744,17.541,17.336
+Rural population (% of total population),SP.RUR.TOTL.ZS,Mexico,MEX,23.692,23.384,23.08,22.778,22.48,22.185,21.889,21.595,21.301,21.007,20.715,20.423,20.133,19.844,19.556,19.269
+Rural population (% of total population),SP.RUR.TOTL.ZS,Indonesia,IDN,54.058,53.262,52.465,51.665,50.866,50.086,49.405,48.724,48.045,47.365,46.687,46.011,45.341,44.675,44.015,43.359
+Rural population (% of total population),SP.RUR.TOTL.ZS,Thailand,THA,62.589,61.327,60.05,58.758,57.457,56.144,55.302,54.555,53.807,53.057,52.306,51.552,50.8,50.051,49.308,48.57
+Rural population (% of total population),SP.RUR.TOTL.ZS,South Africa,ZAF,40.464,39.923,39.384,38.846,38.313,37.782,37.254,36.728,36.207,35.688,35.172,34.659,34.15,33.645,33.144,32.646
+Rural population (% of total population),SP.RUR.TOTL.ZS,Angola,AGO,44,43.236,42.476,41.718,40.966,40.217,39.472,38.732,37.998,37.269,36.554,35.851,35.161,34.486,33.823,33.175
+Rural population (% of total population),SP.RUR.TOTL.ZS,Zimbabwe,ZWE,65.89,66.074,66.257,66.44,66.622,66.804,66.985,67.166,67.346,67.496,67.615,67.704,67.763,67.791,67.79,67.758
+Rural population growth (annual %),SP.RUR.TOTL.ZG,Canada,CAN,0.557844254173616,0.551491248878675,0.0419781487099549,0.150191983656897,0.210657043137183,0.177253215195272,0.141129967876975,0.868694356405575,0.838999350897815,0.792587517646634,0.527807559356073,0.913336125759693,0.931952478221833,1.08492803121353,1.0323383832027,0.656644458992974
+Rural population growth (annual %),SP.RUR.TOTL.ZG,Cambodia,KHM,1.42376629303271,1.38047704478093,1.34067308439315,1.28312048405077,1.05223901478387,1.08350820256841,1.12482599189132,1.15792451540894,1.16997708997338,1.14827620027409,1.10500698618853,1.05757634724575,1.01486028018694,0.959202128902874,0.900626105522849,0.837982559310065
+Rural population growth (annual %),SP.RUR.TOTL.ZG,United States,USA,0.0733898148736528,0.108670280303657,0.0931570901609545,0.0856572616332229,0.0141332145804876,-0.0300018427486857,-0.17176717755585,-0.188989154899031,-0.265051290084759,-0.255415159548918,-0.284256234098651,-0.322855438046257,-0.453841679756109,-0.58325455730801,-0.695262032744607,-0.824661438105005
+Rural population growth (annual %),SP.RUR.TOTL.ZG,Mexico,MEX,0.11167801180592,0.147672580663442,0.17750313761612,0.17824244769517,0.159842847415204,0.117173388078255,0.0515758490797851,0.00305232375938382,-0.0552207900612247,-0.112142908580838,-0.158599751358101,-0.216377556093139,-0.266178940038251,-0.319440697492789,-0.370590771968483,-0.42021464078884
+Rural population growth (annual %),SP.RUR.TOTL.ZG,Indonesia,IDN,-0.119982703096022,-0.153859617501482,-0.183851506328241,-0.21324010850987,-0.229367256791318,-0.207537485107733,-0.0210845599133991,-0.0362916067632649,-0.0625941318397963,-0.114506066147422,-0.173950895901836,-0.237934081635893,-0.290682444333394,-0.345256883092995,-0.390431636388131,-0.436439683580507
+Rural population growth (annual %),SP.RUR.TOTL.ZG,Thailand,THA,-1.31946536566635,-1.43287309071174,-1.54435630334258,-1.64920153667651,-1.73550757528209,-1.82207949473314,-1.03102235120902,-0.890697712274414,-0.926765025411668,-0.972831452759917,-1.02343811237841,-1.07899310185976,-1.12425934230437,-1.1699787160322,-1.21209144846065,-1.25786269793264
+Rural population growth (annual %),SP.RUR.TOTL.ZG,South Africa,ZAF,-0.0952710831329213,-0.0823848473151366,-0.067797001639187,-0.0413363480887665,0.00994917029705168,0.0596329017177781,0.11716683233515,0.159364169844966,0.175671898106549,0.139989959687362,0.0758276410354681,0.00264363518024856,-0.0625368459002804,-0.126111714302677,-0.183981430866601,-0.240580143097643
+Rural population growth (annual %),SP.RUR.TOTL.ZG,Angola,AGO,0.906610847853287,1.86796692762772,1.90717644032449,1.90989493407563,1.88482405238829,1.82622748637208,1.76432636731329,1.70521587711144,1.63872821484832,1.56028283148803,1.50174428807543,1.43635402152184,1.37876441159101,1.33773771293477,1.3016764857377,1.28407907063163
+Rural population growth (annual %),SP.RUR.TOTL.ZG,Zimbabwe,ZWE,0.750965094400302,0.929222961511846,1.09935296881223,1.27952273560697,1.45728565362915,1.62677140301074,1.806980674545,1.96793235416517,2.04531129919547,1.97722127948747,1.83984061826914,1.6808367320412,1.54651666935413,1.4516887041322,1.41966571378716,1.42665638495326
+Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC,Canada,CAN,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC,Cambodia,KHM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC,United States,USA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC,Mexico,MEX,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC,Indonesia,IDN,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC,Thailand,THA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC,South Africa,ZAF,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC,Angola,AGO,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC,Zimbabwe,ZWE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC,Canada,CAN,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC,Cambodia,KHM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC,United States,USA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC,Mexico,MEX,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC,Indonesia,IDN,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC,Thailand,THA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC,South Africa,ZAF,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC,Angola,AGO,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC,Zimbabwe,ZWE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Urban population (% of total population),SP.URB.TOTL.IN.ZS,Canada,CAN,80.122,80.213,80.396,80.578,80.758,80.937,81.096,81.137,81.178,81.218,81.259,81.3,81.35,81.411,81.482,81.562
+Urban population (% of total population),SP.URB.TOTL.IN.ZS,Cambodia,KHM,19.174,19.293,19.413,19.571,19.93,20.294,20.663,21.037,21.415,21.799,22.188,22.582,22.98,23.388,23.805,24.232
+Urban population (% of total population),SP.URB.TOTL.IN.ZS,United States,USA,79.928,80.099,80.269,80.438,80.606,80.772,80.944,81.119,81.299,81.483,81.671,81.862,82.058,82.256,82.459,82.664
+Urban population (% of total population),SP.URB.TOTL.IN.ZS,Mexico,MEX,76.308,76.616,76.92,77.222,77.52,77.815,78.111,78.405,78.699,78.993,79.285,79.577,79.867,80.156,80.444,80.731
+Urban population (% of total population),SP.URB.TOTL.IN.ZS,Indonesia,IDN,45.942,46.738,47.535,48.335,49.134,49.914,50.595,51.276,51.955,52.635,53.313,53.989,54.659,55.325,55.985,56.641
+Urban population (% of total population),SP.URB.TOTL.IN.ZS,Thailand,THA,37.411,38.673,39.95,41.242,42.543,43.856,44.698,45.445,46.193,46.943,47.694,48.448,49.2,49.949,50.692,51.43
+Urban population (% of total population),SP.URB.TOTL.IN.ZS,South Africa,ZAF,59.536,60.077,60.616,61.154,61.687,62.218,62.746,63.272,63.793,64.312,64.828,65.341,65.85,66.355,66.856,67.354
+Urban population (% of total population),SP.URB.TOTL.IN.ZS,Angola,AGO,56,56.764,57.524,58.282,59.034,59.783,60.528,61.268,62.002,62.731,63.446,64.149,64.839,65.514,66.177,66.825
+Urban population (% of total population),SP.URB.TOTL.IN.ZS,Zimbabwe,ZWE,34.11,33.926,33.743,33.56,33.378,33.196,33.015,32.834,32.654,32.504,32.385,32.296,32.237,32.209,32.21,32.242
+Urban population growth (annual %),SP.URB.GROW,Canada,CAN,1.04061858829188,1.12384675481251,1.19901884209158,1.30902990520455,1.36489394771959,1.33326871439499,1.17495264216968,1.13636233305053,1.1071099946107,1.05460141956621,0.796807975480466,1.18279215486163,1.26116200732881,1.48750598693977,1.50218820550071,1.18772430444538
+Urban population growth (annual %),SP.URB.GROW,Cambodia,KHM,2.19344027197012,2.14655160439467,2.10949988211833,2.28996470781328,3.31731485333765,3.34908730062363,3.3907932516779,3.42424711508669,3.43073508309497,3.41536520647582,3.37241820988723,3.32537807444196,3.27737495822157,3.25022442790301,3.21366227921854,3.17781513618208
+Urban population growth (annual %),SP.URB.GROW,United States,USA,1.13588459113456,1.17796815968651,1.16306776101756,1.15618567133535,1.08529029428822,1.03534480069191,0.93950541093758,0.94956550837067,0.914510413562637,0.95943078191871,0.966674782180289,0.958268060593122,0.871785260117191,0.767437430461766,0.701867775195684,0.599210762260319
+Urban population growth (annual %),SP.URB.GROW,Mexico,MEX,1.82420878524429,1.8590281344028,1.88206292256786,1.88721556631294,1.86191341992348,1.81796631467998,1.7744572453399,1.73097530755872,1.68983234295214,1.65056526440047,1.61013604556509,1.5708748882209,1.52773148162835,1.48761300066204,1.45002297233125,1.4143747761486
+Urban population growth (annual %),SP.URB.GROW,Indonesia,IDN,3.07746462438665,3.04736254502646,3.01470927794316,2.99229541377777,2.96874980696441,2.91280934009964,2.70302720446254,2.68870491926569,2.65628613315295,2.6112791471733,2.54772031433686,2.48060257193435,2.40955382199953,2.34560697392157,2.28381798088284,2.23010935628228
+Urban population growth (annual %),SP.URB.GROW,Thailand,THA,4.02171277434503,3.92175699477365,3.8086082474163,3.70866885158336,3.60935451216024,3.52924359815393,2.38177508348844,2.12667717502957,2.08636411484452,2.04142288941411,1.98928888012459,1.94156013754868,1.88546106272637,1.82629129954117,1.76009094466907,1.69551994112433
+Urban population growth (annual %),SP.URB.GROW,South Africa,ZAF,2.1539801080897,2.16821224137716,2.18467924143766,2.21775604755682,2.2593302979005,2.31239696005493,2.36956213449542,2.41615873332643,2.42442571960463,2.39406473406266,2.33137782779205,2.26014461613465,2.19291873963855,2.12767299835243,2.06848480453102,2.01548003295595
+Urban population growth (annual %),SP.URB.GROW,Angola,AGO,5.65449742019371,4.97464879942458,5.0105924402647,5.01966522581942,4.98586279172289,4.93227212928482,4.87262349690642,4.81291353028581,4.74289874279112,4.66635747013067,4.57220933179748,4.48020433880439,4.39203509910461,4.31180314839867,4.24982377385174,4.19296192786897
+Urban population growth (annual %),SP.URB.GROW,Zimbabwe,ZWE,-0.0666628753133472,0.109495858140618,0.281885444751979,0.459899149495046,0.639938612526558,0.807208623699139,0.989668495186914,1.14833308301087,1.22794267316597,1.29432586809941,1.29692205874524,1.27409384280022,1.27654356252103,1.32349714884316,1.42424874688139,1.57316861683581
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Data from database: Health Nutrition and Population Statistics,,,,,,,,,,,,,,,,,,,
+Last Updated: 02/16/2022,,,,,,,,,,,,,,,,,,,
