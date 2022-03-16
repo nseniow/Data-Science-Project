@@ -1,10 +1,10 @@
-Name, Region, Continent, Currency, Capital, Development Index
-Angola, Southern Africa, Africa, Angolan Kwanza, Luanda, 3
-Cambodia, South East Asia, Asia, Cambodian Riel, Phnom Penh, 3
-Canada, North America, North America, Canadian Dollar, Ottawa, 1
-Indonesia, South East Asia, Asia, Indonesian Rupiah, Jakarta, 2
-Mexico, North America, North America, Mexican Peso, Mexico City, 1
-South Africa, Southern Africa, Africa, South African Rand, Cape Town, 2
-Thailand, South East Asia, Asia, Thai Baht, Bangkok, 2
-United States of America, North America, North America, U.S. Dollar, Washington D.C, 1
-Zimbabwe, Southern Africa, Africa, Real Time Gross Settlement Dollar, Harare, 3
+Name,Region,Continent,Currency,Capital,Development Index
+Angola,Southern Africa,Africa,Angolan Kwanza,Luanda,3
+Cambodia,South East Asia,Asia,Cambodian Riel,Phnom Penh,3
+Canada,North America,North America,Canadian Dollar,Ottawa,1
+Indonesia,South East Asia,Asia,Indonesian Rupiah,Jakarta,2
+Mexico,North America,North America,Mexican Peso,Mexico City,1
+South Africa,Southern Africa,Africa,South African Rand,Cape Town,2
+Thailand,South East Asia,Asia,Thai Baht,Bangkok,2
+United States,North America,North America,U.S. Dollar,Washington D.C,1
+Zimbabwe,Southern Africa,Africa,Real Time Gross Settlement Dollar,Harare,3
